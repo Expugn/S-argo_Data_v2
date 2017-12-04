@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-->
+    SCOUT MASTER: FILE EXAMPLE
+
+    This file allows modifications to the "scout master" that you can see when character scouting.
+    To implement your own "scout master", make a copy of this file and modify the values as you please.
+
+    When you're done, to implement it you change the <ScoutMaster> value in your Settings.xml file to
+    the file name of your new ScoutMaster file.
+
+    i.e:
+        A ScoutMaster file with the name 'Argo.xml' should appear as '<ScoutMaster>Argo</ScoutMaster>' in your Settings.xml file
+        or a ScoutMaster file with the name 'Ushi.xml' should appear as '<ScoutMaster>Ushi</ScoutMaster>' and so on.
+<-->
+<ScoutMaster>
+    <!-->
+        SCOUT MASTER: NAME
+
+        Modifying the value below will change the name in the playing message
+        when the bot is online.
+
+        i.e:
+            By default, the playing message will appear as "S'argo | $help";
+            if the value was modified to be "coolBotName" then the playing message
+            will appear as "coolBotName | $help".
+    <-->
+    <BotName name="S'argo"/>
+
+    <!-->
+        SCOUT MASTER: IMAGES
+
+        ScoutMasters can support up to four images:
+            - "Smile": Image when the highest rarity in a character scout is copper.
+            - "Grin": Image when the highest rarity in a character scout is silver.
+            - "Smug": Image when the highest rarity in a character scout is gold.
+            - "Flowers": Image when the highest rarity in a character scout is platinum.
+
+        Take note that even if the highest rarity in a character scout is platinum, the other images
+        have a chance of appearing as well.
+
+        By default, the image dimensions are 350x350, but any size should be supported.
+
+        You may also use other file hosting sites like imgur for these images.
+    <-->
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Smile.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Grin.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Smug.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Flowers.png"/>
+    </Images>
+
+    <!-->
+        SCOUT MASTER: QUOTES
+
+        You may add as many quotes as you please.
+        When scouting, a random quote shall be selected to be displayed along with the scout result.
+
+        NOTE: '&#xD;' are line breaks. Use them if you need them.
+    <-->
+    <Quotes>
+        <Quote say="Lookin' for good allies, huh?&#xD;Try the Teleport Plaza."/>
+        <Quote say="So you wanna make friends, eh?&#xD;Try the Teleport Plaza."/>
+        <Quote say="たくさん強い仲間が欲しいの力。&#xD;今から転移門広場に行きナ。"/>
+        <Quote say="オッケー。 力強い仲間カ。&#xD;今から転移門広場に行きナ。"/>
+    </Quotes>
+</ScoutMaster>
