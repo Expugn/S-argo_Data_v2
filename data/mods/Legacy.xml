@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'egacy ∞"/>
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Legacy/FeelsPianistMan.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Legacy/JavaLava.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Legacy/PineHax.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Legacy/OreoWolfBtw.png"/>
+    </Images>
+    <Quotes>
+        <Quote say=" "/>
+    </Quotes>
+</ScoutMaster>

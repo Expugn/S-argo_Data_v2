@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'aruto"/>
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Naruto/Naruto_Smile.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Naruto/Naruto_Grin.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Naruto/Naruto_ThumbUp.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Naruto/Naruto_Wink.png"/>
+    </Images>
+    <Quotes>
+        <Quote say="I will become hokage, believe it!"/>
+        <Quote say="Believe it!"/>
+        <Quote say="To become hokage is my dream!"/>
+        <Quote say="I won't run away anymore...&#xD;I won't go back on my word...&#xD;that is my ninja way!"/>
+    </Quotes>
+</ScoutMaster>

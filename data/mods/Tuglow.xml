@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'uglow"/>
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Tuglow/Tuglow_Meh.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Tuglow/Tuglow_Sigh.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Tuglow/Tuglow_What.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Tuglow/Tuglow_Gasm.png"/>
+    </Images>
+    <Quotes>
+        <Quote say="Bruh."/>
+        <Quote say="YEET!"/>
+        <Quote say="BOY!"/>
+    </Quotes>
+</ScoutMaster>

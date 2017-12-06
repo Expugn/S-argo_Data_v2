@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'ushi"/>
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Ushi/Ushi_Disgust.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Ushi/Ushi_Grin.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Ushi/Ushi_Happy.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Ushi/Ushi_Gasm.png"/>
+    </Images>
+    <Quotes>
+        <Quote say="Argo, sparkle smile!"/>
+        <Quote say="Give me something that is super good, Argo."/>
+        <Quote say="Argo, sparkle!"/>
+    </Quotes>
+</ScoutMaster>

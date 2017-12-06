@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'anta"/>
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Santa/Santa_Smile.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Santa/Santa_Happy.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Santa/Santa_Woah.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Santa/Santa_Wink.png"/>
+    </Images>
+    <Quotes>
+        <Quote say="Ho ho ho!"/>
+        <Quote say="Merry Christmas!"/>
+        <Quote say="What would you like for Christmas?"/>
+        <Quote say="Have you been naughty or nice this year?"/>
+    </Quotes>
+</ScoutMaster>
