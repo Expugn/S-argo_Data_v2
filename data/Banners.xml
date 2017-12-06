@@ -1141,4 +1141,18 @@
         <Weapon name="Twinkle Christmas Eve" rarity="4"/>
         <Weapon name="Reindeer Horn" rarity="4"/>
     </Banner>
+
+    <Banner id="61">
+        <name>My Heart's Snowfall</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Guide in Snow" char="Kirito" rarity="5"/>
+        <Character prefix="Snow Blessings" char="Sachi" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Dual Schneesturm" rarity="4"/>
+        <Weapon name="Eiszapfen" rarity="4"/>
+    </Banner>
 </banners>
