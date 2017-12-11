@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <!--> LAST UPDATED FOR: v2.1 <-->
+
+    <!-->
+        RENAME THE FILE TO BE Settings.xml INSTEAD OF new_Settings_(version).xml BEFORE USING!
+        ALSO DON'T FORGET TO CHANGE THE TOKEN TO YOUR BOT'S TOKEN!
+
+        ALSO NOTE THAT THE VERSION NUMBER IN THE FILE NAME IS THE BOT VERSION WHERE THIS
+        SETTINGS FILE WAS LAST UPDATED! IF THERE IS A SETTINGS FILE WITH A VERSION NUMBER
+        HIGHER THAN THE ONE YOU HAVE THEN YOU SHOULD UPDATE TO THAT FILE!
+    <-->
+
+    <!-->
+        BOT SETTINGS:
+            Token - Token for the bot that's running the program.
+            NoGUI - If true, start the bot without the GUI.
+            GitHubDataRepository - Repository where the bot will pull images from.
+            BotOwnerID: Bot Owner's ID (aka, the only person who can use 'update' and 'stop').
+    <-->
+    <BotSettings>
+        <Token>YOUR_BOT_TOKEN_HERE</Token>
+        <NoGUI>true</NoGUI>
+        <GitHubDataRepository>https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/</GitHubDataRepository>
+        <BotOwnerID>BOT_OWNER_DISCORD_ID_HERE</BotOwnerID>
+    </BotSettings>
+
+    <!-->
+        COMMAND SETTINGS:
+            UseMention - Commands are called via '@Bot <command>' if true.
+            CommandPrefix - If UseMention is false, commands are called via '<prefix><command>'.
+            DeleteUserMessage - If true, the bot deletes the message that the player used to call it.
+            IgnoredChannels - Channels that you don't want the bot to work in.
+    <-->
+    <CommandSettings>
+        <UseMention>true</UseMention>
+        <CommandPrefix>$</CommandPrefix>
+        <DeleteUserMessage>false</DeleteUserMessage>
+
+        <IgnoredChannels>
+            <iChannel channelName="general"/>
+            <iChannel channelName="ignored-channel"/>
+        </IgnoredChannels>
+    </CommandSettings>
+
+    <!-->
+        SCOUT SETTINGS:
+            DisableImages - If true, users cannot create images by adding an "i" after their scout type.
+            SimpleMessage - If true, the EmbedMessage will not be used and the scout results will be shown via plain text.
+            RarityStars - If true, stars that display the rarity will be added to the character/weapon images.
+            ScoutMaster - The "Scout Master" that the bot should use. Put the file name without the extension here.
+            Base Rates - Rates used for the summon simulator.
+                By default, the rates are:
+                    - 69% for a Copper Character
+                    - 25% for a Silver Character
+                    - 4% for a Gold Character
+                    - 2% for a Platinum Character
+                If no Platinum character exists in a banner, the 2% gets added to the Copper Character rates.
+            RecordCrystal - Rates for how much record crystals the user will get when scouting from a record crystal banner.
+                By default, the rates are:
+                    - 3% for 1 RC
+                    - 37% for 2 RC
+                    - 40% for 3 RC
+                    - 10% for 4 RC
+                    - 3.5% for 5 RC
+                    - 3.5% for 6 RC
+                    - 1% for 7 RC
+                    - 1% for 8 RC
+                    - 0.5% for 9 RC
+                    - 0.5% for 10 RC
+            GoldBanners - These are the banners included in record crystal guaranteed scouts.
+            GoldBannersv2 - These are the banners included in record crystal v2 guaranteed scouts.
+    <-->
+    <ScoutSettings>
+        <DisableImages>false</DisableImages>
+        <SimpleMessage>false</SimpleMessage>
+        <RarityStars>true</RarityStars>
+        <ScoutMaster></ScoutMaster>
+
+        <BaseRates>
+            <copper>0.69</copper>
+            <silver>0.25</silver>
+            <gold>0.04</gold>
+            <platinum>0.02</platinum>
+        </BaseRates>
+
+        <RecordCrystal>
+            <RecordCrystal amount="1" rate="0.03"/>
+            <RecordCrystal amount="2" rate="0.37"/>
+            <RecordCrystal amount="3" rate="0.4"/>
+            <RecordCrystal amount="4" rate="0.1"/>
+            <RecordCrystal amount="5" rate="0.035"/>
+            <RecordCrystal amount="6" rate="0.035"/>
+            <RecordCrystal amount="7" rate="0.01"/>
+            <RecordCrystal amount="8" rate="0.01"/>
+            <RecordCrystal amount="9" rate="0.005"/>
+            <RecordCrystal amount="10" rate="0.005"/>
+        </RecordCrystal>
+
+        <GoldBanners>
+            <!-->The Accelerating Reality<-->
+            <BannerID id="15"/>
+            <!-->Hooray ★ Love Cheers<-->
+            <BannerID id="17"/>
+            <!-->Alicization - The Knights' Encounter<-->
+            <BannerID id="19"/>
+            <!-->Deadly Beautiful Kunoichi<-->
+            <BannerID id="20"/>
+            <!-->Enduring Love in Another Space<-->
+            <BannerID id="21"/>
+            <!-->Blooming School Life<-->
+            <BannerID id="23"/>
+            <!-->Princess from the Virtual World<-->
+            <BannerID id="24"/>
+            <!-->To Your Heart - Maid in Balmy Breeze<-->
+            <BannerID id="26"/>
+            <!-->Alicization - Integration Beginning<-->
+            <BannerID id="27"/>
+            <!-->Beautiful Girls Playing in the Water<-->
+            <BannerID id="28"/>
+            <!-->Poetry of Constellation<-->
+            <BannerID id="29"/>
+            <!-->Eternal Love - Dreaming Bride<-->
+            <BannerID id="30"/>
+            <!-->Recalling Moments<-->
+            <BannerID id="31"/>
+            <!-->Workers' Cosplay Paradise<-->
+            <BannerID id="32"/>
+            <!-->Raindrops Concerto<-->
+            <BannerID id="33"/>
+            <!-->Tropical Dream<-->
+            <BannerID id="34"/>
+            <!-->Promised Night of the Stars<-->
+            <BannerID id="35"/>
+            <!-->Yukata Night<-->
+            <BannerID id="36"/>
+        </GoldBanners>
+
+        <GoldBannersv2>
+            <!-->The Accelerating Reality<-->
+            <BannerID2 id="15"/>
+            <!-->Hooray ★ Love Cheers<-->
+            <BannerID2 id="17"/>
+            <!-->Alicization - The Knights' Encounter<-->
+            <BannerID2 id="19"/>
+            <!-->Deadly Beautiful Kunoichi<-->
+            <BannerID2 id="20"/>
+            <!-->Enduring Love in Another Space<-->
+            <BannerID2 id="21"/>
+            <!-->Blooming School Life<-->
+            <BannerID2 id="23"/>
+            <!-->Princess from the Virtual World<-->
+            <BannerID2 id="24"/>
+            <!-->To Your Heart - Maid in Balmy Breeze<-->
+            <BannerID2 id="26"/>
+            <!-->Alicization - Integration Beginning<-->
+            <BannerID2 id="27"/>
+            <!-->Beautiful Girls Playing in the Water<-->
+            <BannerID2 id="28"/>
+            <!-->Poetry of Constellation<-->
+            <BannerID2 id="29"/>
+            <!-->Eternal Love - Dreaming Bride<-->
+            <BannerID2 id="30"/>
+            <!-->Recalling Moments<-->
+            <BannerID2 id="31"/>
+            <!-->Workers' Cosplay Paradise<-->
+            <BannerID2 id="32"/>
+            <!-->Raindrops Concerto<-->
+            <BannerID2 id="33"/>
+            <!-->Tropical Dream<-->
+            <BannerID2 id="34"/>
+            <!-->Promised Night of the Stars<-->
+            <BannerID2 id="35"/>
+            <!-->Yukata Night<-->
+            <BannerID2 id="36"/>
+            <!-->Beaming Summer Gals<-->
+            <BannerID2 id="38"/>
+            <!-->Summer Night Festa<-->
+            <BannerID2 id="39"/>
+            <!-->In the Stormy Sea - Jolly Roger<-->
+            <BannerID2 id="40"/>
+        </GoldBannersv2>
+    </ScoutSettings>
+
+    <!-->
+        SHOP SETTINGS:
+            MaxShopLimit - The max amount of bundles a user can buy at a time.
+            ShopItems - The available items that a player can buy.
+    <-->
+    <ShopSettings>
+        <MaxShopLimit>10</MaxShopLimit>
+        <ShopItems>
+            <shopItem itemName="Memory Diamond A" price="0.99" amount="5"/>
+            <shopItem itemName="Memory Diamond B" price="4.99" amount="25"/>
+            <shopItem itemName="Memory Diamond C" price="7.99" amount="50"/>
+            <shopItem itemName="Memory Diamond D" price="17.99" amount="125"/>
+            <shopItem itemName="Memory Diamond E" price="33.99" amount="250"/>
+            <shopItem itemName="Memory Diamond F" price="44.99" amount="360"/>
+            <shopItem itemName="Memory Diamond G" price="79.99" amount="700"/>
+        </ShopItems>
+    </ShopSettings>
+</settings>
