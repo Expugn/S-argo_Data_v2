@@ -1155,4 +1155,22 @@
         <Weapon name="Dual Schneesturm" rarity="4"/>
         <Weapon name="Eiszapfen" rarity="4"/>
     </Banner>
+
+    <Banner id="63">
+        <name>Starry Night Fairy Santa</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Snow Sniper" char="Sinon" rarity="5"/>
+        <Character prefix="Thoughts on Snowfall" char="Lisbeth" rarity="5"/>
+        <Character prefix="Holy Tamer" char="Silica" rarity="5"/>
+        <Character prefix="Christmas Miracle" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Priere de noel" rarity="4"/>
+        <Weapon name="Mistletoe Kiss" rarity="4"/>
+        <Weapon name="Little Star Edge" rarity="4"/>
+        <Weapon name="Miracle Impact" rarity="4"/>
+    </Banner>
 </banners>
