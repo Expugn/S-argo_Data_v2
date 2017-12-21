@@ -1173,4 +1173,18 @@
         <Weapon name="Little Star Edge" rarity="4"/>
         <Weapon name="Miracle Impact" rarity="4"/>
     </Banner>
+
+    <Banner id="64">
+        <name>Fateful Showdown - Sticking to Their Guns</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Knights of the Clan" char="Kirito" rarity="5"/>
+        <Character prefix="Absolute Defense" char="Heathcliff" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Elucidator Rouge" rarity="4"/>
+        <Weapon name="Insane Ruler" rarity="4"/>
+    </Banner>
 </banners>
