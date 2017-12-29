@@ -461,6 +461,12 @@
         <Character prefix="Holy Sword" char="Heathcliff" rarity="4"/>
         <Character prefix="Wacky Happy Halloween" char="Lisbeth" rarity="4"/>
         <Character prefix="Abounding Spring Water" char="Strea" rarity="4"/>
+        <Character prefix="Santa is Coming" char="Seven" rarity="4"/>
+        <Character prefix="Personal Santa" char="Rain" rarity="4"/>
+        <Character prefix="Girl in Chinese Dress" char="Silica" rarity="4"/>
+        <Character prefix="Haiku Composer" char="Kirito" rarity="4"/>
+        <Character prefix="Splash in Dirndl" char="Leafa" rarity="4"/>
+        <Character prefix="Stars and Stripes" char="Asuna" rarity="4"/>
     </Banner>
 
     <Banner id="23">
@@ -1187,5 +1193,23 @@
         <!--> WEAPON LIST <-->
         <Weapon name="Elucidator Rouge" rarity="4"/>
         <Weapon name="Insane Ruler" rarity="4"/>
+    </Banner>
+
+    <Banner id="65">
+        <name>Happy Hatsumoude in Kimono</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Votive Prayers" char="Asuna" rarity="5"/>
+        <Character prefix="Ring the Bell" char="Alice" rarity="5"/>
+        <Character prefix="Swing a Battledore with Love" char="Sinon" rarity="5"/>
+        <Character prefix="Fly a Shuttlecock with My Heart" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Fluttery Chrysanthemum" rarity="4"/>
+        <Weapon name="Sacred Boundary" rarity="4"/>
+        <Weapon name="Exorcism" rarity="4"/>
+        <Weapon name="Polo" rarity="4"/>
     </Banner>
 </banners>
