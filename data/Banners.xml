@@ -1212,4 +1212,22 @@
         <Weapon name="Exorcism" rarity="4"/>
         <Weapon name="Polo" rarity="4"/>
     </Banner>
+
+    <Banner id="66">
+        <name>First Play in the New Year's Breeze</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Realization of Big Wishes" char="Leafa" rarity="5"/>
+        <Character prefix="Fortune comes in at the merry gate" char="Kirito" rarity="5"/>
+        <Character prefix="Auspicious Blue Sky" char="Silica" rarity="5"/>
+        <Character prefix="New Year's Breeze" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Flying Butterfly" rarity="4"/>
+        <Weapon name="Oni's Fang" rarity="4"/>
+        <Weapon name="Kamaitachi" rarity="4"/>
+        <Weapon name="Eagle Claw" rarity="4"/>
+    </Banner>
 </banners>
