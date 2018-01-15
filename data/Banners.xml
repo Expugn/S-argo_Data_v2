@@ -1230,4 +1230,22 @@
         <Weapon name="Kamaitachi" rarity="4"/>
         <Weapon name="Eagle Claw" rarity="4"/>
     </Banner>
+
+    <Banner id="67">
+        <name>First Priestess Experience</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
+        <Character prefix="Sacred Dance" char="Yui" rarity="5"/>
+        <Character prefix="The Unexpected" char="Sinon" rarity="5"/>
+        <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Little Fox" rarity="4"/>
+        <Weapon name="Purification" rarity="4"/>
+        <Weapon name="Amulet" rarity="4"/>
+        <Weapon name="Kagura" rarity="4"/>
+    </Banner>
 </banners>
