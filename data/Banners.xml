@@ -1252,10 +1252,14 @@
     <Banner id="68">
         <name>Leaning on You</name>
         <type>8</type>
-        <wepType>0</wepType>
+        <wepType>1</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="A sword that favors beliefs" char="Kirito" rarity="5"/>
-        <Character prefix="Eye that opens the future" char="Sinon" rarity="5"/>
+        <Character prefix="Stick to your beliefs" char="Kirito" rarity="5"/>
+        <Character prefix="Clear a path for your future" char="Sinon" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Tsukikage" rarity="4"/>
+        <Weapon name="Magnificent Hecate" rarity="4"/>
     </Banner>
 </banners>
