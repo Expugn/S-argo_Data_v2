@@ -463,11 +463,8 @@
         <Character prefix="Abounding Spring Water" char="Strea" rarity="4"/>
         <Character prefix="Santa is Coming" char="Seven" rarity="4"/>
         <Character prefix="Personal Santa" char="Rain" rarity="4"/>
-        <Character prefix="Girl in Chinese Dress" char="Silica" rarity="4"/>
-        <Character prefix="Haiku Composer" char="Kirito" rarity="4"/>
-        <Character prefix="Splash in Dirndl" char="Leafa" rarity="4"/>
-        <Character prefix="Stars and Stripes" char="Asuna" rarity="4"/>
-        <Character prefix="Korean Dress in Breeze" char="Sinon" rarity="4"/>
+        <Character prefix="Spirited Chocolatier" char="Philia" rarity="4"/>
+
     </Banner>
 
     <Banner id="23">
@@ -1215,6 +1212,19 @@
     </Banner>
 
     <Banner id="66">
+        <name>Global Ticket Scout - 1st Anniversary of Going Global</name>
+        <type>1</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Girl in Chinese Dress" char="Silica" rarity="4"/>
+        <Character prefix="Haiku Composer" char="Kirito" rarity="4"/>
+        <Character prefix="Splash in Dirndl" char="Leafa" rarity="4"/>
+        <Character prefix="Stars and Stripes" char="Asuna" rarity="4"/>
+        <Character prefix="Korean Dress in Breeze" char="Sinon" rarity="4"/>
+    </Banner>
+
+    <Banner id="67">
         <name>First Play in the New Year's Breeze</name>
         <type>3</type>
         <wepType>1</wepType>
@@ -1232,7 +1242,7 @@
         <Weapon name="Eagle Claw" rarity="4"/>
     </Banner>
 
-    <Banner id="67">
+    <Banner id="68">
         <name>First Priestess Experience</name>
         <type>3</type>
         <wepType>1</wepType>
@@ -1250,7 +1260,7 @@
         <Weapon name="Kagura" rarity="4"/>
     </Banner>
 
-    <Banner id="68">
+    <Banner id="69">
         <name>Leaning on You</name>
         <type>8</type>
         <wepType>1</wepType>
@@ -1262,5 +1272,24 @@
         <!--> WEAPON LIST <-->
         <Weapon name="Tsukikage" rarity="4"/>
         <Weapon name="Magnificent Hecate" rarity="4"/>
+    </Banner>
+
+    <Banner id="70">
+        <name>Sweet Chocolatiere - Melt Your Sweetheart</name>
+        <type>9</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Affectionate Chocolatier" char="Asuna" rarity="5"/>
+        <Character prefix="Innocent Chocolatier" char="Yuuki" rarity="5"/>
+        <Character prefix="Lovely Chocolatier" char="Silica" rarity="5"/>
+        <Character prefix="Pure Hearted Chocolatier" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Lapiel de Fleur" rarity="4"/>
+        <Weapon name="Epee Ruban" rarity="4"/>
+        <Weapon name="Pastry Dagger" rarity="4"/>
+        <Weapon name="Candy Flapper" rarity="4"/>
+
     </Banner>
 </banners>
