@@ -26,7 +26,6 @@
         6) Memorial Scout (Static scout rates, single pulls only.)
         7) Step Up v3 (125 MD scout on step 1, 2.0x rates for platinum on step 3, resets at 3)
         8) Record Crystal v3 (Same as Record Cystal v2, but get 1-5 RC back every record crystal scout)
-        9) Record Crystal v4 (Same as Record Crystal v3, but get 1-10 RC back every record crystal scout)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1278,7 +1277,7 @@
 
     <Banner id="70">
         <name>Sweet Chocolatiere - Melt Your Sweetheart</name>
-        <type>9</type>
+        <type>8</type>
         <wepType>1</wepType>
 
         <!--> CHARACTER LIST <-->
@@ -1292,6 +1291,23 @@
         <Weapon name="Epee Ruban" rarity="4"/>
         <Weapon name="Pastry Dagger" rarity="4"/>
         <Weapon name="Candy Flapper" rarity="4"/>
+    </Banner>
 
+    <Banner id="71">
+        <name>Dream Circus - Breathtaking Performances</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Accompanied By Animals" char="Sinon" rarity="5"/>
+        <Character prefix="Flying Without Wings" char="Leafa" rarity="5"/>
+        <Character prefix="Keep Trying Yui" char="Yui" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <!--
+        <Weapon name="Dove Rod" rarity="4"/>
+        <Weapon name="Balloon Lance" rarity="4"/>
+        <Weapon name="Citrine Dagger" rarity="4"/>
+        -->
     </Banner>
 </banners>
