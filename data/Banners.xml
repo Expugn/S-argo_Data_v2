@@ -1304,10 +1304,8 @@
         <Character prefix="Keep Trying" char="Yui" rarity="5"/>
 
         <!--> WEAPON LIST <-->
-        <!--
         <Weapon name="Dove Rod" rarity="4"/>
         <Weapon name="Balloon Lance" rarity="4"/>
         <Weapon name="Citrine Dagger" rarity="4"/>
-        -->
     </Banner>
 </banners>
