@@ -116,6 +116,7 @@
         <Character prefix="Lone Wolf in the Wild" char="Kirito" rarity="5"/>
         <Character prefix="Dancing Rose Red" char="Asuna" rarity="5"/>
         <Character prefix="Constant Love" char="Asuna" rarity="5"/>
+        <Character prefix="Seeking Strength" char="Kureha" rarity="5"/>
     </Banner>
 
     <Banner id="4">
@@ -300,15 +301,15 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Enchanting Love" char="Asuna" rarity="4"/>
-        <Character prefix="Platonic Love" char="Silica" rarity="4"/>
         <Character prefix="Unfulfilled Wish" char="Leafa" rarity="4"/>
-        <Character prefix="Choleric Sniper" char="Sinon" rarity="4"/>
+        <Character prefix="Choleric Cupid" char="Sinon" rarity="4"/>
+        <Character prefix="Platonic Love" char="Silica" rarity="4"/>
 
         <!--> WEAPON LIST <-->
         <Weapon name="Brilliant Fleuret" rarity="4"/>
-        <Weapon name="Love Cake Knife" rarity="4"/>
         <Weapon name="Chocolate Grater" rarity="4"/>
         <Weapon name="Cupid's Passion" rarity="4"/>
+        <Weapon name="Love Cake Knife" rarity="4"/>
     </Banner>
 
     <Banner id="14">
@@ -1307,5 +1308,38 @@
         <Weapon name="Dove Rod" rarity="4"/>
         <Weapon name="Balloon Lance" rarity="4"/>
         <Weapon name="Citrine Dagger" rarity="4"/>
+    </Banner>
+
+    <Banner id="72">
+        <name>Sweet Sweet Honey</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Enchanting Love" char="Asuna" rarity="5"/>
+        <Character prefix="Unfulfilled Wish" char="Leafa" rarity="5"/>
+        <Character prefix="Choleric Cupid" char="Sinon" rarity="5"/>
+        <Character prefix="Platonic Love" char="Silica" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Treasured Rapier +1" rarity="4"/>
+        <Weapon name="Chocolate Grater +1" rarity="4"/>
+        <Weapon name="Cupid's Passion +1" rarity="4"/>
+        <Weapon name="Love Cake Knife +1" rarity="4"/>
+    </Banner>
+
+    <Banner id="73">
+        <name>Fatal Bullet - Unstoppable Force</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
+        <Character prefix="Gale Gunner" char="Leafa" rarity="5"/>
+        <Character prefix="Dragon Tamer in the Wild" char="Silica" rarity="5"/>
+        <Character prefix="Stout Heart in the World of Steel" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <!--> WIP <-->
     </Banner>
 </banners>
