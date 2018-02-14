@@ -14,7 +14,7 @@
     <!-->
         BOT SETTINGS:
             Token - Token for the bot that's running the program.
-            NoGUI - If true, start the bot without the GUI.
+            NoGUI - If true, start the bot without the GUI. The GUI may take up more processing power. Use the `stop` command to stop the bot instead.
             GitHubDataRepository - Repository where the bot will pull images from.
             BotOwnerID: Bot Owner's ID (aka, the only person who can use 'update' and 'stop').
     <-->
