@@ -30,6 +30,8 @@
         <wepType>
         0) Normal (Static scout rates, nothing special)
         1) Step Up (100 MD scout on step 1, 2.0x rates for gold weapon on step 3)
+        2) GGO Step Up (100 MD scout w/ guaranteed Copper+ Automatic Rifle, 1.5x rates for Gold on step 3,
+                        Guaranteed Gold on step 5, and 2.0x rates for Gold on step 6, repeats at 6)
 
         Type the desired number between the <type></type> area in a banner.
     <-->
@@ -1331,7 +1333,7 @@
     <Banner id="73">
         <name>Fatal Bullet - Unstoppable Force</name>
         <type>8</type>
-        <wepType>1</wepType>
+        <wepType>2</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
@@ -1340,6 +1342,9 @@
         <Character prefix="Stout Heart in the World of Steel" char="Lisbeth" rarity="5"/>
 
         <!--> WEAPON LIST <-->
-        <!--> WIP <-->
+        <Weapon name="SPB Rapier" rarity="4"/>
+        <Weapon name="Sylph Type-A" rarity="4"/>
+        <Weapon name="Pink Camouflage LZ" rarity="4"/>
+        <Weapon name="Sturm KZ" rarity="4"/>
     </Banner>
 </banners>
