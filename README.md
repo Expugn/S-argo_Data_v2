@@ -18,3 +18,5 @@ All item images for the ticket scout feature of S'argo can be found here.
 All required images for embed messages or scout image generation can be found here.
 ### \images\Weapons\
 Weapon images for what can be found in the `Banners.xml` file.
+### \wiki\
+Images for the S'argo wiki.
