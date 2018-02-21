@@ -26,6 +26,7 @@
         6) Memorial Scout (Static scout rates, single pulls only.)
         7) Step Up v3 (125 MD scout on step 1, 2.0x rates for platinum on step 3, resets at 3)
         8) Record Crystal v3 (Same as Record Cystal v2, but get 1-5 RC back every record crystal scout)
+        9) Event (Free, single pulls only, and no hacking crystals on duplicate characters)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1605,5 +1606,23 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Sweet Idol Singer" char="Yuna" rarity="4"/>
+    </Banner>
+
+    <Banner id="101">
+        <name>Global 1st Anniversary 5 Star Upgrade Vote Scout</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Kagura Dance" char="Premiere" rarity="5"/>
+        <Character prefix="Gemini" char="Yuuki" rarity="5"/>
+        <Character prefix="Integrity Knight" char="Alice" rarity="5"/>
+        <Character prefix="Indoor Gamer" char="Sakuya" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Divine Shiner +1" rarity="4"/>
+        <Weapon name="Gemini Gradius +2" rarity="4"/>
+        <Weapon name="Fragrant Olive Sword +2" rarity="4"/>
+        <Weapon name="Rain-making Long Bow +1" rarity="4"/>
     </Banner>
 </banners>
