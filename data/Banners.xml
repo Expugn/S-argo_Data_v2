@@ -1625,4 +1625,31 @@
         <Weapon name="Fragrant Olive Sword +2" rarity="4"/>
         <Weapon name="Rain-making Long Bow +1" rarity="4"/>
     </Banner>
+
+    <Banner id="102">
+        <name>Ordinal Scale 1st Movie Release Anniversary - Reawakened Memories</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
+        <Character prefix="Robust Faith" char="Asuna" rarity="5"/>
+        <Character prefix="Ordinal Number 2nd" char="Eiji" rarity="5"/>
+        <Character prefix="Shifting Idol Singer" char="Yuna" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Eternal Promise" rarity="4"/>
+        <Weapon name="Deep Courage" rarity="4"/>
+        <Weapon name="Sword of Nautilus" rarity="4"/>
+        <Weapon name="Emotiongraphy" rarity="4"/>
+    </Banner>
+
+    <Banner id="103">
+        <name>OS Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Tied Together" char="Yuuki" rarity="4"/>
+    </Banner>
 </banners>
