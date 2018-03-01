@@ -452,7 +452,7 @@
     </Banner>
 
     <Banner id="27">
-        <name>Spring Breeze Hina-Matsuri</name>
+        <name>Spring Breeze Hina-Matsuri Festival</name>
         <type>0</type>
         <wepType>0</wepType>
 
@@ -463,8 +463,8 @@
 
         <!--> WEAPON LIST <-->
         <Weapon name="Paired Blossoms" rarity="4"/>
+        <Weapon name="Blade of Bight Festival" rarity="4"/>
         <Weapon name="Breeze of the Fortunate Pattern" rarity="4"/>
-        <Weapon name="Blade of Blight Festival" rarity="4"/>
     </Banner>
 
     <Banner id="28">
@@ -1651,5 +1651,21 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Tied Together" char="Yuuki" rarity="4"/>
+    </Banner>
+
+    <Banner id="104">
+        <name>Comeback - Spring Breeze Hina-Matsuri Festival</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Early Spring Dance" char="Argo" rarity="5"/>
+        <Character prefix="Flower Peach Baby" char="Silica" rarity="5"/>
+        <Character prefix="Pudding Rather Than Praise" char="Premiere" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Paired Blossoms +1" rarity="4"/>
+        <Weapon name="Blade of Bight Festival +1" rarity="4"/>
+        <Weapon name="Breeze of the Fortunate Pattern +1" rarity="4"/>
     </Banner>
 </banners>
