@@ -1668,4 +1668,18 @@
         <Weapon name="Blade of Bight Festival +1" rarity="4"/>
         <Weapon name="Breeze of the Fortunate Pattern +1" rarity="4"/>
     </Banner>
+
+    <Banner id="105">
+        <name>The Vernal Memory of Uniform</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Youthful Days" char="Asuna" rarity="5"/>
+        <Character prefix="The Coveted Life" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Cherry Blossom Longbow" rarity="4"/>
+        <Weapon name="Spring Evening Spear" rarity="4"/>
+    </Banner>
 </banners>
