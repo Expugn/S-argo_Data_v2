@@ -1414,7 +1414,7 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
-        <Character prefix="Absolute Defense" char="Heathcliff" rarity="5"/>
+        <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
 
         <!--> WEAPON LIST <-->
         <Weapon name="Elucidator Rouge" rarity="4"/>
@@ -1717,6 +1717,6 @@
         <Character prefix="The Archer - Overcoming the Past" char="Sinon" rarity="5"/>
         <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
         <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
-        <Character prefix="Ultimate Defense" char="Heathcliff" rarity="5"/>
+        <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
     </Banner>
 </banners>
