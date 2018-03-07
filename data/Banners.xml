@@ -1682,4 +1682,41 @@
         <Weapon name="Cherry Blossom Longbow" rarity="4"/>
         <Weapon name="Spring Evening Spear" rarity="4"/>
     </Banner>
+
+    <Banner id="106">
+        <name>Dengeki Spring Festival - 1 Diamond Scout</name>
+        <type>6</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Flush of Youth" char="Leafa" rarity="5"/>
+        <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
+        <Character prefix="The Wild Joker" char="Sinon" rarity="5"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
+        <Character prefix="Blue Rose Integrity Knight" char="Eugeo" rarity="5"/>
+        <Character prefix="Strong Mind" char="Klein" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
+        <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
+        <Character prefix="The Blade - facing the feelings" char="Leafa" rarity="5"/>
+        <Character prefix="Wish Granter" char="Yuuki" rarity="5"/>
+        <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
+        <Character prefix="Beauty in Secluded Hot Springs" char="Leafa" rarity="5"/>
+        <Character prefix="The Bunny Ace" char="Yuuki" rarity="5"/>
+        <Character prefix="The Will - transcending the system" char="Kirito" rarity="5"/>
+        <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
+        <Character prefix="The Will - changing the fate" char="Asuna" rarity="5"/>
+        <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
+        <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
+        <Character prefix="The Queen of Hearts" char="Asuna" rarity="5"/>
+        <Character prefix="Ingenuous Guardian" char="Silica" rarity="5"/>
+        <Character prefix="Go for the Top" char="Yui" rarity="5"/>
+        <Character prefix="Autumn Leaf Bath Beauty" char="Silica" rarity="5"/>
+        <Character prefix="Band Together" char="Agil" rarity="5"/>
+        <Character prefix="Harmony Keeper" char="Lisbeth" rarity="5"/>
+        <Character prefix="Sniper in Love" char="Sinon" rarity="5"/>
+        <Character prefix="The Archer - overcoming the past" char="Sinon" rarity="5"/>
+        <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
+        <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
+        <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
+    </Banner>
 </banners>
