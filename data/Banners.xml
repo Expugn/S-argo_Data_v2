@@ -1413,7 +1413,7 @@
         <wepType>1</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Knights of the Clan" char="Kirito" rarity="5"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
         <Character prefix="Absolute Defense" char="Heathcliff" rarity="5"/>
 
         <!--> WEAPON LIST <-->
@@ -1692,19 +1692,19 @@
         <Character prefix="Flush of Youth" char="Leafa" rarity="5"/>
         <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
         <Character prefix="The Wild Joker" char="Sinon" rarity="5"/>
-        <Character prefix="Knights of the Clan" char="Kirito" rarity="5"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
         <Character prefix="Blue Rose Integrity Knight" char="Eugeo" rarity="5"/>
         <Character prefix="Strong Mind" char="Klein" rarity="5"/>
         <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
         <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
-        <Character prefix="The Blade - facing the feelings" char="Leafa" rarity="5"/>
+        <Character prefix="The Blade - Facing the Feelings" char="Leafa" rarity="5"/>
         <Character prefix="Wish Granter" char="Yuuki" rarity="5"/>
         <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
         <Character prefix="Beauty in Secluded Hot Springs" char="Leafa" rarity="5"/>
         <Character prefix="The Bunny Ace" char="Yuuki" rarity="5"/>
-        <Character prefix="The Will - transcending the system" char="Kirito" rarity="5"/>
+        <Character prefix="The Will - Transcending the System" char="Kirito" rarity="5"/>
         <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
-        <Character prefix="The Will - changing the fate" char="Asuna" rarity="5"/>
+        <Character prefix="The Will - Changing the Fate" char="Asuna" rarity="5"/>
         <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
         <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
         <Character prefix="The Queen of Hearts" char="Asuna" rarity="5"/>
@@ -1714,9 +1714,9 @@
         <Character prefix="Band Together" char="Agil" rarity="5"/>
         <Character prefix="Harmony Keeper" char="Lisbeth" rarity="5"/>
         <Character prefix="Sniper in Love" char="Sinon" rarity="5"/>
-        <Character prefix="The Archer - overcoming the past" char="Sinon" rarity="5"/>
+        <Character prefix="The Archer - Overcoming the Past" char="Sinon" rarity="5"/>
         <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
         <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
-        <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
+        <Character prefix="Ultimate Defense" char="Heathcliff" rarity="5"/>
     </Banner>
 </banners>
