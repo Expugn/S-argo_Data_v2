@@ -1719,4 +1719,18 @@
         <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
         <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
     </Banner>
+
+    <Banner id="109">
+        <name>Another Gun Gale Online</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Itsy-Bitsy Heroine" char="LLENN" rarity="5"/>
+        <Character prefix="Toxic Beauty" char="Pitohui" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="my darling P." rarity="4"/>
+        <Weapon name="Serpens G-P-1" rarity="4"/>
+    </Banner>
 </banners>
