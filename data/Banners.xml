@@ -1733,4 +1733,22 @@
         <Weapon name="my darling P." rarity="4"/>
         <Weapon name="Serpens G-P-1" rarity="4"/>
     </Banner>
+
+    <Banner id="108">
+        <name>Furry Morphin' Time</name>
+        <type>8</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Foxy Beauty" char="Asuna" rarity="5"/>
+        <Character prefix="Bashful Tanuki Girl" char="Alice" rarity="5"/>
+        <Character prefix="Innocent Puppy" char="Leafa" rarity="5"/>
+        <Character prefix="Cute Bunny" char="Sinon" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Huli jing Sword" rarity="4"/>
+        <Weapon name="Tanuki Sword" rarity="4"/>
+        <Weapon name="Faithful Dog's Fang" rarity="4"/>
+        <Weapon name="Moon Rabbit's Dagger" rarity="4"/>
+    </Banner>
 </banners>
