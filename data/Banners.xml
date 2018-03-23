@@ -190,7 +190,7 @@
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="The Fisherman" char="Sima" rarity="4"/>
+        <Character prefix="Pole and Line Fishing" char="Sima" rarity="4"/>
     </Banner>
 
     <Banner id="10">
@@ -1750,5 +1750,14 @@
         <Weapon name="Tanuki Sword" rarity="4"/>
         <Weapon name="Faithful Dog's Fang" rarity="4"/>
         <Weapon name="Moon Rabbit's Dagger" rarity="4"/>
+    </Banner>
+
+    <Banner id="109">
+        <name>Awesome Newbie</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Cool Screw" char="Waals" rarity="4"/>
     </Banner>
 </banners>
