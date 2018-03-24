@@ -1760,4 +1760,23 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Cool Screw" char="Waals" rarity="4"/>
     </Banner>
+
+    <Banner id="110">
+        <name>Anime Release and TVCM Special</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Charming Rider" char="Sinon" rarity="5"/>
+    </Banner>
+
+    <Banner id="111">
+        <name>SAO Game 5th Anniversary</name>
+        <type>10</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Ingenuous Blessing" char="Strea" rarity="5"/>
+        <Character prefix="Treasure Hunter's Blessing" char="Philia" rarity="5"/>
+    </Banner>
 </banners>
