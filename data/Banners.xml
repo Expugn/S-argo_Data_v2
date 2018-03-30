@@ -1780,4 +1780,31 @@
         <Character prefix="Ingenuous Blessing" char="Strea" rarity="5"/>
         <Character prefix="Treasure Hunter's Blessing" char="Philia" rarity="5"/>
     </Banner>
+
+    <Banner id="112">
+        <name>Fairy Magic</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sweet Voice" char="Asuna" rarity="5"/>
+        <Character prefix="Funky Play" char="Yuuki" rarity="5"/>
+        <Character prefix="Groovy Sound" char="Lisbeth" rarity="5"/>
+        <Character prefix="Angel Tone" char="Silica" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Magical Note" rarity="4"/>
+        <Weapon name="Tricky Spear" rarity="4"/>
+        <Weapon name="Popping Hammer" rarity="4"/>
+        <Weapon name="Melodic Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="113">
+        <name>Premium Live Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Shamisen Rock" char="Premiere" rarity="4"/>
+    </Banner>
 </banners>
