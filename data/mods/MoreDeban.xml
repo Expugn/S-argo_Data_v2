@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScoutMaster>
+    <BotName name="S'more Deban"/>
+	
+    <Images>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/ScoutMasters/MoreDeban/Argo_Smile_Deban.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/ScoutMasters/MoreDeban/Argo_Grin_Deban.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/ScoutMasters/MoreDeban/Argo_Smug_Deban.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/ScoutMasters/MoreDeban/Argo_Flowers_Deban.png"/>
+    </Images>
+
+    <Quotes>
+        <Quote say="Lookin' for good allies, huh?&#xD;Try the Teleport Plaza."/>
+        <Quote say="So you wanna make friends, eh?&#xD;Try the Teleport Plaza."/>
+        <Quote say="たくさん強い仲間が欲しいの力。&#xD;今から転移門広場に行きナ。"/>
+        <Quote say="オッケー。 力強い仲間カ。&#xD;今から転移門広場に行きナ。"/>
+    </Quotes>
+</ScoutMaster>
