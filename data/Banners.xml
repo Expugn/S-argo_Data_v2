@@ -29,6 +29,7 @@
         9) Event (Free, single pulls only, and no hacking crystals on duplicate characters)
         10) SAO Game 5th Anniversary Step Up (Same rates as Step Up v2, just different MD costs)
         11) Record Crystal v4 (Same as Record Crystal v3, but platinum base rates have increased by 1.5x)
+        12) Step Up v4 (Same as Step Up v2, but 50% discount on Step 1 and 2 and increased platinum base rates by 1.5x)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1807,5 +1808,21 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Shamisen Rock" char="Premiere" rarity="4"/>
+    </Banner>
+
+    <Banner id="114">
+        <name>Bullet Battle Royal</name>
+        <type>12</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Toxic Gun Master" char="Pitohui" rarity="5"/>
+        <Character prefix="Pink in Battle" char="LLENN" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Sylph Type-A" rarity="4"/>
+        <Weapon name="SPB Rapier" rarity="4"/>
+        <Weapon name="Sturm KZ" rarity="4"/>
+        <Weapon name="Pink Camouflage LZ" rarity="4"/>
     </Banner>
 </banners>
