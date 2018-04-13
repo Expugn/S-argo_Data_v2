@@ -1825,4 +1825,22 @@
         <Weapon name="Sturm KZ" rarity="4"/>
         <Weapon name="Pink Camouflage LZ" rarity="4"/>
     </Banner>
+
+    <Banner id="115">
+        <name>Harmonic Resonance - Rainbow Sky</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sweet Vocals" char="Seven" rarity="5"/>
+        <Character prefix="Cool Drum Beats" char="Rain" rarity="5"/>
+        <Character prefix="Perfect Play" char="Sinon" rarity="5"/>
+        <Character prefix="Passionate Strumming" char="Leafa" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Music of the Heart" rarity="4"/>
+        <Weapon name="Twin Beats" rarity="4"/>
+        <Weapon name="Heavy Tone" rarity="4"/>
+        <Weapon name="Harmonic Sword" rarity="4"/>
+    </Banner>
 </banners>
