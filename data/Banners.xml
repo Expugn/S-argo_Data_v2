@@ -29,7 +29,8 @@
         9) Event (Free, single pulls only, and no hacking crystals on duplicate characters)
         10) SAO Game 5th Anniversary Step Up (Same rates as Step Up v2, just different MD costs)
         11) Record Crystal v4 (Same as Record Crystal v3, but platinum base rates have increased by 1.5x)
-        12) Step Up v4 (Same as Step Up v2, but 50% discount on Step 1 and 2 and increased platinum base rates by 1.5x)
+        12) Step Up v4 (Same as Step Up v2, but 50% discount on Step 1 and 3 and increased platinum base rates by 1.5x)
+        13) Step Up v5 (Same as Step Up v2, but 50% discount on Step 1 and increased platinum base rates by 1.5x)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1842,5 +1843,18 @@
         <Weapon name="Twin Beats" rarity="4"/>
         <Weapon name="Heavy Tone" rarity="4"/>
         <Weapon name="Harmonic Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="116">
+        <name>Leafa Birthday Scout 4.19.2018</name>
+        <type>13</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Blade - Facing the Feelings" char="Leafa" rarity="5"/>
+        <Character prefix="Flush of Youth" char="Leafa" rarity="5"/>
+        <Character prefix="Beauty in Secluded Hot Springs" char="Leafa" rarity="5"/>
+        <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
+        <Character prefix="Summer Night Shout" char="Leafa" rarity="5"/>
     </Banner>
 </banners>
