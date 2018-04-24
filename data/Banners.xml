@@ -1857,4 +1857,15 @@
         <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
         <Character prefix="Summer Night Shout" char="Leafa" rarity="5"/>
     </Banner>
+
+    <Banner id="117">
+        <name>SAO Game 5th Anniversary #2</name>
+        <type>10</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Goddess Blessing" char="Premiere" rarity="5"/>
+        <Character prefix="Countless Swords Blessing" char="Rain" rarity="5"/>
+        <Character prefix="Talented Womans Blessing" char="Seven" rarity="5"/>
+    </Banner>
 </banners>
