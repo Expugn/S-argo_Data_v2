@@ -31,6 +31,7 @@
         11) Record Crystal v4 (Same as Record Crystal v3, but platinum base rates have increased by 1.5x)
         12) Step Up v4 (Same as Step Up v2, but 50% discount on Step 1 and 3 and increased platinum base rates by 1.5x)
         13) Step Up v5 (Same as Step Up v2, but 50% discount on Step 1 and increased platinum base rates by 1.5x)
+        14) SAO Game 5th Anniversary Step Up v2 (Same as SAO Game 5th Anniversary Step Up, but increased platinum base rates by 1.5x)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1867,5 +1868,32 @@
         <Character prefix="Goddess Blessing" char="Premiere" rarity="5"/>
         <Character prefix="Countless Swords Blessing" char="Rain" rarity="5"/>
         <Character prefix="Talented Womans Blessing" char="Seven" rarity="5"/>
+    </Banner>
+
+    <Banner id="118">
+        <name>Master Swordsmen in the Battlefield</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Black Master Swordsman" char="Kirito" rarity="5"/>
+        <Character prefix="Nimble Slash" char="Asuna" rarity="5"/>
+        <Character prefix="Sky Bow" char="Sinon" rarity="5"/>
+        <Character prefix="Swifty Slash" char="Leafa" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Dark Rebellion" rarity="4"/>
+        <Weapon name="Neo Atlantis" rarity="4"/>
+        <Weapon name="Heilug Gusisnautar" rarity="4"/>
+        <Weapon name="Eradicate Storm" rarity="4"/>
+    </Banner>
+
+    <Banner id="119">
+        <name>Grenade Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Little Gunner" char="Fukaziroh" rarity="4"/>
     </Banner>
 </banners>
