@@ -1896,4 +1896,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Little Gunner" char="Fukaziroh" rarity="4"/>
     </Banner>
+
+    <Banner id="120">
+        <name>Hand in Hand - Children's Day</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="I'm not a kid" char="Asuna" rarity="5"/>
+        <Character prefix="Feels like a big sis" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Fish Scale Sword" rarity="4"/>
+        <Weapon name="Self Defense Blade" rarity="4"/>
+    </Banner>
 </banners>
