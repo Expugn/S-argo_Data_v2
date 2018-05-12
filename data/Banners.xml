@@ -1910,4 +1910,45 @@
         <Weapon name="Fish Scale Sword" rarity="4"/>
         <Weapon name="Self Defense Blade" rarity="4"/>
     </Banner>
+
+    <Banner id="121">
+        <name>Selection Scout - SS3 HP Recovery Characters</name>
+        <type>15</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Raindrops Girl" char="Rain" rarity="5"/>
+        <Character prefix="Born in Sakura Season" char="Yui" rarity="5"/>
+        <Character prefix="Kagura Dance" char="Premiere" rarity="5"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
+        <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
+        <Character prefix="Fragrant Olive in June" char="Alice" rarity="5"/>
+        <Character prefix="Celestial Dancer" char="Yuuki" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Asuna" rarity="5"/>
+        <Character prefix="Summer Night Shout" char="Leafa" rarity="5"/>
+        <Character prefix="Bouquet Toss" char="Yuuki" rarity="5"/>
+        <Character prefix="Indoor Gamer" char="Sakuya" rarity="5"/>
+        <Character prefix="Ultimate Defence" char="Heathcliff" rarity="5"/>
+        <Character prefix="Gale Gunner" char="Leafa" rarity="5"/>
+        <Character prefix="Dragon Tamer in the Wild" char="Silica" rarity="5"/>
+        <Character prefix="Stout Heart in the World of Steel" char="Lisbeth" rarity="5"/>
+        <Character prefix="Sakura Romance" char="Strea" rarity="4"/>
+        <Character prefix="Summer Girl" char="Suguha" rarity="4"/>
+        <Character prefix="The Kiss" char="Leafa" rarity="4"/>
+        <Character prefix="Rainy Season Enjoyment" char="Leafa" rarity="4"/>
+        <Character prefix="Good Street Vendor" char="Lisbeth" rarity="4"/>
+        <Character prefix="Starlight Prayer" char="Silica" rarity="4"/>
+        <Character prefix="Healing Beauty" char="Asuna" rarity="4"/>
+        <Character prefix="Pure Hunter Soul" char="Philia" rarity="4"/>
+        <Character prefix="Blessed Breath" char="Silica" rarity="4"/>
+        <Character prefix="Promise of Reunion" char="Philia" rarity="4"/>
+        <Character prefix="Sunflower Girl" char="Silica" rarity="4"/>
+        <Character prefix="Smile on Waterfront" char="Lisbeth" rarity="4"/>
+        <Character prefix="Summer Sunshine" char="Lisbeth" rarity="4"/>
+        <Character prefix="Mischievous Summer Chick" char="Sinon" rarity="4"/>
+        <Character prefix="Blossom of Youth" char="Philia" rarity="4"/>
+        <Character prefix="Stiletto Heel Bride" char="Sinon" rarity="4"/>
+        <Character prefix="Midsummer Babe" char="Suguha" rarity="4"/>
+    </Banner>
 </banners>
