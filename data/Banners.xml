@@ -1951,4 +1951,20 @@
         <Character prefix="Stiletto Heel Bride" char="Sinon" rarity="4"/>
         <Character prefix="Midsummer Babe" char="Suguha" rarity="4"/>
     </Banner>
+
+    <Banner id="122">
+        <name>A Rest Day for Gunners</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Little Beauty" char="LLENN" rarity="5"/>
+        <Character prefix="Charming Look" char="Pitohui" rarity="5"/>
+        <Character prefix="Storm Baby" char="Fukaziroh" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Hydro Shooter" rarity="4"/>
+        <Weapon name="Water Burst Rifle" rarity="4"/>
+        <Weapon name="Splash Machine Gun" rarity="4"/>
+    </Banner>
 </banners>
