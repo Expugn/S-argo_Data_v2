@@ -1967,4 +1967,17 @@
         <Weapon name="Water Burst Rifle" rarity="4"/>
         <Weapon name="Splash Machine Gun" rarity="4"/>
     </Banner>
+
+    <Banner id="123">
+        <name>Lisbeth Birthday Scout 5.18.2018</name>
+        <type>13</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Summer Sunshine" char="Lisbeth" rarity="5"/>
+        <Character prefix="Harmony Keeper" char="Lisbeth" rarity="5"/>
+        <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
+        <Character prefix="Fly a Shuttlecock with My Heart" char="Lisbeth" rarity="5"/>
+        <Character prefix="Pure Hearted Chocolatier" char="Lisbeth" rarity="5"/>
+    </Banner>
 </banners>
