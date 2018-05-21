@@ -48,7 +48,7 @@
         Type the desired number between the <type></type> area in a banner.
     <-->
 
-    <Banner id = "1">
+    <Banner id="1">
         <name>Start Dash</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -1985,7 +1985,7 @@
 
     <Banner id="124">
         <name>SAO Game 5th Anniversary #3</name>
-        <type>14</type>
+        <type>16</type>
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
