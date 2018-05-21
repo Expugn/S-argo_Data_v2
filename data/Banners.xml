@@ -32,6 +32,8 @@
         12) Step Up v4 (Same as Step Up v2, but 50% discount on Step 1 and 3 and increased platinum base rates by 1.5x)
         13) Step Up v5 (Same as Step Up v2, but 50% discount on Step 1 and increased platinum base rates by 1.5x)
         14) SAO Game 5th Anniversary Step Up v2 (Same as SAO Game 5th Anniversary Step Up, but increased platinum base rates by 1.5x)
+        15) Step Up v6 (Same as Step Up v3, but rates for platinum characters are 1.5x higher.)
+        16) SAO Game 5th Anniversary Step Up v3 (Same as SAO Game 5th Anniversary Step Up, but a gold+ rarity character is guaranteed on the first step.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -1979,5 +1981,15 @@
         <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
         <Character prefix="Fly a Shuttlecock with My Heart" char="Lisbeth" rarity="5"/>
         <Character prefix="Pure Hearted Chocolatier" char="Lisbeth" rarity="5"/>
+    </Banner>
+
+    <Banner id="124">
+        <name>SAO Game 5th Anniversary #3</name>
+        <type>14</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Blessing of Light" char="Asuna" rarity="5"/>
+        <Character prefix="Hero's Blessing" char="Kirito" rarity="5"/>
     </Banner>
 </banners>
