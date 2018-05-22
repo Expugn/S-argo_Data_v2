@@ -1992,4 +1992,17 @@
         <Character prefix="Blessing of Light" char="Asuna" rarity="5"/>
         <Character prefix="Hero's Blessing" char="Kirito" rarity="5"/>
     </Banner>
+
+    <Banner id="125">
+        <name>Yuuki Birthday Scout 5.23.2018</name>
+        <type>13</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sunny Summer Girl" char="Yuuki" rarity="5"/>
+        <Character prefix="Wish Granter" char="Yuuki" rarity="5"/>
+        <Character prefix="The Bunny Ace" char="Yuuki" rarity="5"/>
+        <Character prefix="New Year's Breeze" char="Yuuki" rarity="5"/>
+        <Character prefix="Innocent Chocolatier" char="Yuuki" rarity="5"/>
+    </Banner>
 </banners>
