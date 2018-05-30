@@ -2005,4 +2005,22 @@
         <Character prefix="New Year's Breeze" char="Yuuki" rarity="5"/>
         <Character prefix="Innocent Chocolatier" char="Yuuki" rarity="5"/>
     </Banner>
+
+    <Banner id="126">
+        <name>Passionate Bloom</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Unrestrained Emotion" char="Asuna" rarity="5"/>
+        <Character prefix="Unrequited Love" char="Suguha" rarity="5"/>
+        <Character prefix="Fluttering Petals" char="Rain" rarity="5"/>
+        <Character prefix="Hopeful Smile" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Prominence Rose" rarity="4"/>
+        <Weapon name="Carnation Edge" rarity="4"/>
+        <Weapon name="Twin Flame Dahlia" rarity="4"/>
+        <Weapon name="Heart of Gerbera" rarity="4"/>
+    </Banner>
 </banners>
