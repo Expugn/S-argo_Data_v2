@@ -2023,4 +2023,13 @@
         <Weapon name="Twin Flame Dahlia" rarity="4"/>
         <Weapon name="Heart of Gerbera" rarity="4"/>
     </Banner>
+
+    <Banner id="127">
+        <name>Hairpin Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="A Lone Flower" char="Alice" rarity="4"/>
+    </Banner>
 </banners>
