@@ -2032,4 +2032,22 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="A Lone Flower" char="Alice" rarity="4"/>
     </Banner>
+
+    <Banner id="128">
+        <name>So Psyched - Costume Change</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Flash with Wind" char="Asuna" rarity="5"/>
+        <Character prefix="Magical Bullet" char="Leafa" rarity="5"/>
+        <Character prefix="Illusion Killer" char="Sinon" rarity="5"/>
+        <Character prefix="Sparkling Zekken" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Blood Knight Gale" rarity="4"/>
+        <Weapon name="Hecate Wing" rarity="4"/>
+        <Weapon name="Illusion Terminator" rarity="4"/>
+        <Weapon name="Sleeping Light" rarity="4"/>
+    </Banner>
 </banners>
