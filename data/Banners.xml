@@ -2050,4 +2050,22 @@
         <Weapon name="Illusion Terminator" rarity="4"/>
         <Weapon name="Sleeping Light" rarity="4"/>
     </Banner>
+
+    <Banner id="129">
+        <name>Fellow Soldiers in the Wilderness</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Fellowship on the Field" char="Kirito" rarity="5"/>
+        <Character prefix="Leaning on My Fellow Soldier" char="Sinon" rarity="5"/>
+        <Character prefix="Zekken in the Wilderness" char="Yuuki" rarity="5"/>
+        <Character prefix="MHCP on the Frontline" char="Strea" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Kagemitsu G2" rarity="4"/>
+        <Weapon name="Hecate typeHE" rarity="4"/>
+        <Weapon name="Muramasa G4" rarity="4"/>
+        <Weapon name="Aldebaran STM" rarity="4"/>
+    </Banner>
 </banners>
