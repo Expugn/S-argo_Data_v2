@@ -2068,4 +2068,31 @@
         <Weapon name="Muramasa G4" rarity="4"/>
         <Weapon name="Aldebaran STM" rarity="4"/>
     </Banner>
+
+    <Banner id="130">
+        <name>Girl in Love - Summer Vacation</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Ocean Resort" char="Asuna" rarity="5"/>
+        <Character prefix="Summer Splash" char="Yuuki" rarity="5"/>
+        <Character prefix="Tropical Fruit" char="Silica" rarity="5"/>
+        <Character prefix="Shine Parasol" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Wave Anchor" rarity="4"/>
+        <Weapon name="Twilight Bivalve" rarity="4"/>
+        <Weapon name="Passion Sunshine" rarity="4"/>
+        <Weapon name="Shine Fruit Mace" rarity="4"/>
+    </Banner>
+
+    <Banner id="131">
+        <name>Shell Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Caught My Eye" char="Suguha" rarity="4"/>
+    </Banner>
 </banners>
