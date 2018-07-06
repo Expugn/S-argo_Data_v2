@@ -2095,4 +2095,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Caught My Eye" char="Suguha" rarity="4"/>
     </Banner>
+
+    <Banner id="132">
+        <name>Devoted Master Swordsmen</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Proud Sword" char="Alice" rarity="5"/>
+        <Character prefix="Trusted Sword" char="Eugeo" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Fragrant Olive Holy Sword" rarity="4"/>
+        <Weapon name="Blue Rose Ice Sword" rarity="4"/>
+    </Banner>
 </banners>
