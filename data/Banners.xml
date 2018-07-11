@@ -2109,4 +2109,35 @@
         <Weapon name="Fragrant Olive Holy Sword" rarity="4"/>
         <Weapon name="Blue Rose Ice Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="133">
+        <name>Selection Scout - ATK Up Characters</name>
+        <type>15</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
+        <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
+        <Character prefix="Feels like a big sis" char="Yuuki" rarity="5"/>
+        <Character prefix="The Queen of Hearts" char="Asuna" rarity="5"/>
+        <Character prefix="The Bunny Ace" char="Yuuki" rarity="5"/>
+        <Character prefix="The Wild Joker" char="Sinon" rarity="5"/>
+        <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
+        <Character prefix="Sacred Dance" char="Yui" rarity="5"/>
+        <Character prefix="The Unexpected" char="Sinon" rarity="5"/>
+        <Character prefix="I'm not a kid" char="Asuna" rarity="5"/>
+        <Character prefix="Celestial Dancer" char="Yuuki" rarity="5"/>
+        <Character prefix="Promise of Reunion" char="Philia" rarity="4"/>
+        <Character prefix="Gorgeous Quartermaster" char="Asuna" rarity="4"/>
+        <Character prefix="Cheer of Love" char="Asuna" rarity="4"/>
+        <Character prefix="Victorious Girl" char="Sinon" rarity="4"/>
+        <Character prefix="Shouting Cheers" char="Silica" rarity="4"/>
+        <Character prefix="Glittering Youth" char="Strea" rarity="4"/>
+        <Character prefix="Angel Cheer" char="Yui" rarity="4"/>
+        <Character prefix="Starlight Prayer" char="Silica" rarity="4"/>
+        <Character prefix="Lofty Captain" char="Kirito" rarity="4"/>
+        <Character prefix="Great Sniper on the Lookout" char="Sinon" rarity="4"/>
+        <Character prefix="Radiant First Mate" char="Leafa" rarity="4"/>
+        <Character prefix="Intuitive Navigator" char="Yuuki" rarity="4"/>
+    </Banner>
 </banners>
