@@ -2140,4 +2140,14 @@
         <Character prefix="Radiant First Mate" char="Leafa" rarity="4"/>
         <Character prefix="Intuitive Navigator" char="Yuuki" rarity="4"/>
     </Banner>
+
+    <Banner id="134">
+        <name>Monster Strike Mash Up</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Queen of Wonderland" char="Alice" rarity="4"/>
+        <Character prefix="Ark Savior" char="Eugeo" rarity="4"/>
+    </Banner>
 </banners>
