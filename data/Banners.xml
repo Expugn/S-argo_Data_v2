@@ -2150,4 +2150,22 @@
         <Character prefix="Queen of Wonderland" char="Alice" rarity="4"/>
         <Character prefix="Ark Savior" char="Eugeo" rarity="4"/>
     </Banner>
+
+    <Banner id="135">
+        <name>Feel the Breeze - Welcome Summer</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Beach Lancer" char="Leafa" rarity="5"/>
+        <Character prefix="Sparkling Gunner" char="Sinon" rarity="5"/>
+        <Character prefix="Dolphin Jumper" char="Rain" rarity="5"/>
+        <Character prefix="Dolphin Rider" char="Seven" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Marine Wind Lance" rarity="4"/>
+        <Weapon name="Summer Soda Shot" rarity="4"/>
+        <Weapon name="Dual Dolphins" rarity="4"/>
+        <Weapon name="Dolphin Thrust" rarity="4"/>
+    </Banner>
 </banners>
