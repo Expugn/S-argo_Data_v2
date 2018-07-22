@@ -2168,4 +2168,14 @@
         <Weapon name="Dual Dolphins" rarity="4"/>
         <Weapon name="Dolphin Thrust" rarity="4"/>
     </Banner>
+
+    <Banner id="136">
+        <name>Progressive Manga Linked Scout</name>
+        <type>13</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Hero's Achievement" char="Kirito" rarity="5"/>
+        <Character prefix="Light Trajectory" char="Asuna" rarity="5"/>
+    </Banner>
 </banners>
