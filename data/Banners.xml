@@ -2178,4 +2178,31 @@
         <Character prefix="Hero's Achievement" char="Kirito" rarity="5"/>
         <Character prefix="Light Trajectory" char="Asuna" rarity="5"/>
     </Banner>
+
+    <Banner id="137">
+        <name>Gods' Toughest Fight with Ragnarok</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Orgulous God" char="Kirito" rarity="5"/>
+        <Character prefix="Goddess of Fertility" char="Asuna" rarity="5"/>
+        <Character prefix="Valkyrie" char="Alice" rarity="5"/>
+        <Character prefix="Unleashed Werewolf" char="Eugeo" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Victorx2" rarity="4"/>
+        <Weapon name="Great Love" rarity="4"/>
+        <Weapon name="Guardian Angel" rarity="4"/>
+        <Weapon name="Ferocious Wolf" rarity="4"/>
+    </Banner>
+
+    <Banner id="138">
+        <name>#2 Countdown Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Oracle Prophet" char="Yui" rarity="4"/>
+    </Banner>
 </banners>
