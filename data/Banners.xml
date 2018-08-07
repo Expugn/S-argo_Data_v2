@@ -2205,4 +2205,20 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="The Oracle Prophet" char="Yui" rarity="4"/>
     </Banner>
+
+    <Banner id="139">
+        <name>Fierce Fight in the Inferno of the Gods</name>
+        <type>11</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Brave War God" char="Leafa" rarity="5"/>
+        <Character prefix="The Death Queen" char="Sinon" rarity="5"/>
+        <Character prefix="Deceiver of the Gods" char="Yuuki" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Ar Averk" rarity="4"/>
+        <Weapon name="And-Lauss" rarity="4"/>
+        <Weapon name="Bal Sverth" rarity="4"/>
+    </Banner>
 </banners>
