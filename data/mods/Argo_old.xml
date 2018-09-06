@@ -34,7 +34,6 @@
             - "Grin": Image when the highest rarity in a character scout is silver.
             - "Smug": Image when the highest rarity in a character scout is gold.
             - "Flowers": Image when the highest rarity in a character scout is platinum.
-        You may use the same or 2 variants of these images to replace the SAO/ALO version of Argo.
 
         Take note that even if the highest rarity in a character scout is platinum, the other images
         have a chance of appearing as well.
@@ -44,19 +43,10 @@
         You may also use other file hosting sites like imgur for these images.
     <-->
     <Images>
-        <!--> ARGO SAO IMAGES <-->
-        <SAOSmile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_SAO_Smile.png"/>
-        <SAOGrin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_SAO_Grin.png"/>
-        <SAOSmug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_SAO_Smug.png"/>
-        <SAOFlowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_SAO_Flowers.png"/>
-        <SAOStars imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_SAO_Stars.png"/>
-
-        <!--> ARGO ALO IMAGES <-->
-        <ALOSmile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_ALO_Smile.png"/>
-        <ALOGrin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_ALO_Grin.png"/>
-        <ALOSmug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_ALO_Smug.png"/>
-        <ALOFlowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_ALO_Flowers.png"/>
-        <ALOStars imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_ALO_Stars.png"/>
+        <Smile imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Smile.png"/>
+        <Grin imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Grin.png"/>
+        <Smug imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Smug.png"/>
+        <Flowers imageURL="https://raw.githubusercontent.com/Expugn/S-argo_Data/master/images/Argo/Argo_Flowers.png"/>
     </Images>
 
     <!-->
