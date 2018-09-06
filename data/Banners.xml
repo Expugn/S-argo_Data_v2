@@ -34,6 +34,7 @@
         14) SAO Game 5th Anniversary Step Up v2 (Same as SAO Game 5th Anniversary Step Up, but increased platinum base rates by 1.5x)
         15) Step Up v6 (Same as Step Up v3, but rates for platinum characters are 1.5x higher.)
         16) SAO Game 5th Anniversary Step Up v3 (Same as SAO Game 5th Anniversary Step Up, but a gold+ rarity character is guaranteed on the first step.)
+        17) Step Up v7 (Same as Step Up v2, but 50% discount on Step 1, 200 MD Step 3 w/ 1.5x increased rates for platinum6 characters, guaranteed platinum6 character on step 5, and repeating step 6 with 2x platinum6 rates.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -45,6 +46,13 @@
         <include>
         - "GoldBanner" (Included in the pool for Record Crystal guaranteed scouts)
         - "GoldBannerv2" (Included in the pool for Record Crystal v2 guaranteed scouts)
+        - "PlatinumBanners" (Included in the pool for Step Up v7 scouts)
+
+        <exclude>
+        Use this tag to stop a certain character from being used in GoldBanner/GoldBannerv2/PlatinumBanners/etc
+        Type prefix, name, and rarity separated by semicolons. Any spaces must be turned into underscores.
+        Only functions for Step Up v7 (17) and higher banner types.
+        i.e: <exclude>Black_Swordsman;Kirito;4</exclude>
 
         Type the desired number between the <type></type> area in a banner.
     <-->
@@ -1014,6 +1022,7 @@
         <name>Proof of Trust X Bonds of Fate</name>
         <type>3</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Will - Transcending the System" char="Kirito" rarity="5"/>
@@ -1041,6 +1050,7 @@
         <name>Alicization - The World Spins With Swords</name>
         <type>3</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
@@ -1055,6 +1065,7 @@
         <name>Memory of Friendship and Passing of Time</name>
         <type>3</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
@@ -1073,6 +1084,7 @@
         <name>Chivalric Men's Uproarious Banquet</name>
         <type>3</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Strong Mind" char="Klein" rarity="5"/>
@@ -1227,6 +1239,7 @@
         <name>Baton of Friendship! - Sports Festival</name>
         <type>5</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
@@ -1245,6 +1258,8 @@
         <name>Wedding Anniversary - Kirito and Asuna</name>
         <type>7</type>
         <wepType>0</wepType>
+        <include>PlatinumBanners</include>
+        <exclude>Promise_at_that_Time;Asuna;5</exclude>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
@@ -1255,6 +1270,7 @@
         <name>Steamy Beauty Bath Time</name>
         <type>5</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
@@ -1282,6 +1298,7 @@
         <name>The Two Bonded by Phantom Bullets</name>
         <type>7</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
@@ -1296,6 +1313,7 @@
         <name>The Crimson Trump Card</name>
         <type>5</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
@@ -1419,6 +1437,7 @@
         <name>Fateful Showdown - Sticking to Their Guns</name>
         <type>7</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
@@ -1442,6 +1461,7 @@
         <name>Happy Hatsumoude in Kimono</name>
         <type>3</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Votive Prayers" char="Asuna" rarity="5"/>
@@ -1473,6 +1493,7 @@
         <name>First Play in the New Year's Breeze</name>
         <type>3</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Realization of Big Wishes" char="Leafa" rarity="5"/>
@@ -1491,6 +1512,7 @@
         <name>First Priestess Experience</name>
         <type>3</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
@@ -1509,6 +1531,7 @@
         <name>Leaning on You</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Stick to your beliefs" char="Kirito" rarity="5"/>
@@ -1523,6 +1546,7 @@
         <name>Sweet Chocolatiere - Melt Your Sweetheart</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Affectionate Chocolatier" char="Asuna" rarity="5"/>
@@ -1550,6 +1574,7 @@
         <name>Dream Circus - Breathtaking Performances</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Accompanied By Animals" char="Sinon" rarity="5"/>
@@ -1584,6 +1609,7 @@
         <name>Fatal Bullet - Unstoppable Force</name>
         <type>8</type>
         <wepType>2</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
@@ -1638,6 +1664,7 @@
         <name>Ordinal Scale 1st Movie Release Anniversary - Reawakened Memories</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
@@ -1681,6 +1708,7 @@
         <name>The Vernal Memory of Uniform</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Youthful Days" char="Asuna" rarity="5"/>
@@ -1746,6 +1774,7 @@
         <name>Furry Morphin' Time</name>
         <type>8</type>
         <wepType>1</wepType>
+        <include>PlatinumBanners</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Foxy Beauty" char="Asuna" rarity="5"/>
@@ -2277,5 +2306,42 @@
         <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
         <Character prefix="The Wild Joker" char="Sinon" rarity="5"/>
         <Character prefix="Clear a path for your future" char="Sinon" rarity="5"/>
+    </Banner>
+
+    <Banner id="144">
+        <name>The Guys Appear in Memory Defrag</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Let's Play Memory Defrag" char="Nobunaga" rarity="6"/>
+        <Character prefix="Happy 2nd Anniversary" char="Yoshitsugu" rarity="6"/>
+    </Banner>
+
+    <Banner id="145">
+        <name>The Crossover World - Timeless Bond</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Ultrafast Dualblades" char="Kirito" rarity="6"/>
+        <Character prefix="Linked to the Future" char="Asuna" rarity="6"/>
+        <Character prefix="Great Fragrant Olive Tree" char="Alice" rarity="6"/>
+        <Character prefix="Blue Rose in Full Glory" char="Eugeo" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Innovator x Evil Punisher" rarity="4"/>
+        <Weapon name="Glaring Light" rarity="4"/>
+        <Weapon name="Fragrant Olive Treasured Sword" rarity="4"/>
+        <Weapon name="Blue Rose Treasured Sword" rarity="4"/>
+    </Banner>
+	
+	<Banner id="146">
+        <name>#2 Anniversary Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Another Justice" char="Makoto" rarity="5"/>
     </Banner>
 </banners>
