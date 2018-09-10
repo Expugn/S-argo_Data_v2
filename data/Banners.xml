@@ -2344,4 +2344,19 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Another Justice" char="Makoto" rarity="5"/>
     </Banner>
+
+    <Banner id="147">
+        <name>Gales & Arrows - Transcending Time</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The World Linking Arrow" char="Sinon" rarity="6"/>
+        <Character prefix="A Gale Blows Via Time & Space" char="Leafa" rarity="6"/>
+
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Afr Eruvaru" rarity="4"/>
+        <Weapon name="Tempest Punisher" rarity="4"/>
+    </Banner>
 </banners>
