@@ -2343,6 +2343,7 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Another Justice" char="Makoto" rarity="5"/>
+        <Character prefix="Navigation Pixie" char="Thokk" rarity="5"/>
     </Banner>
 
     <Banner id="147">
@@ -2354,9 +2355,22 @@
         <Character prefix="The World Linking Arrow" char="Sinon" rarity="6"/>
         <Character prefix="A Gale Blows Via Time and Space" char="Leafa" rarity="6"/>
 
-
         <!--> WEAPON LIST <-->
         <Weapon name="Afr Eruvaru" rarity="4"/>
         <Weapon name="Tempest Punisher" rarity="4"/>
+    </Banner>
+
+    <Banner id="148">
+        <name>The World You Can Fly - New Bond</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Swordsman of Water" char="Asuna" rarity="6"/>
+        <Character prefix="Zekken with Feelings" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Aquarius Grace" rarity="4"/>
+        <Weapon name="Obsidian Magic Sword" rarity="4"/>
     </Banner>
 </banners>
