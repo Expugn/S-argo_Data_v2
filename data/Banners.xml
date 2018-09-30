@@ -2413,4 +2413,13 @@
         <Weapon name="Blood Night Lance" rarity="4"/>
         <Weapon name="Gear Bride" rarity="4"/>
     </Banner>
+
+    <Banner id="151">
+        <name>Pumpkin Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Halloween Magic" char="Silica" rarity="5"/>
+    </Banner>
 </banners>
