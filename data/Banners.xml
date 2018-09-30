@@ -35,6 +35,7 @@
         15) Step Up v6 (Same as Step Up v3, but rates for platinum characters are 1.5x higher.)
         16) SAO Game 5th Anniversary Step Up v3 (Same as SAO Game 5th Anniversary Step Up, but a gold+ rarity character is guaranteed on the first step.)
         17) Step Up v7 (Same as Step Up v2, but 50% discount on Step 1, 200 MD Step 3 w/ 1.5x increased rates for platinum6 characters, guaranteed platinum6 character on step 5, and repeating step 6 with 2x platinum6 rates.)
+        18) Record Crystal v5 (Same as Record Crystal v4, but circulating record crystals are not obtainable.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -2372,5 +2373,30 @@
         <!--> WEAPON LIST <-->
         <Weapon name="Aquarius Grace" rarity="4"/>
         <Weapon name="Obsidian Magic Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="149">
+        <name>Asuna Birthday Scout 9.30.2018</name>
+        <type>17</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Will - Changing the Fate" char="Asuna" rarity="6"/>
+        <Character prefix="Affectionate Chocolatier" char="Asuna" rarity="5"/>
+        <Character prefix="Foxy Beauty" char="Asuna" rarity="5"/>
+        <Character prefix="Sweet Voice" char="Asuna" rarity="5"/>
+        <Character prefix="I'm not a kid" char="Asuna" rarity="5"/>
+        <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
+        <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
+        <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
+        <Character prefix="The Queen of Hearts" char="Asuna" rarity="5"/>
+        <Character prefix="Votive Prayers" char="Asuna" rarity="5"/>
+        <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
+        <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
+        <Character prefix="Robust Faith" char="Asuna" rarity="5"/>
+        <Character prefix="Youthful Days" char="Asuna" rarity="5"/>
+        <Character prefix="Nimble Slash" char="Asuna" rarity="5"/>
+        <Character prefix="Unrestrained Emotion" char="Asuna" rarity="5"/>
+        <Character prefix="Ocean Resort" char="Asuna" rarity="5"/>
     </Banner>
 </banners>
