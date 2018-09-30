@@ -2399,4 +2399,18 @@
         <Character prefix="Unrestrained Emotion" char="Asuna" rarity="5"/>
         <Character prefix="Ocean Resort" char="Asuna" rarity="5"/>
     </Banner>
+
+    <Banner id="150">
+        <name>Beauty's Nightmare</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Moonlit Lark" char="Asuna" rarity="6"/>
+        <Character prefix="Beautiful Monster" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Blood Night Lance" rarity="4"/>
+        <Weapon name="Gear Bride" rarity="4"/>
+    </Banner>
 </banners>
