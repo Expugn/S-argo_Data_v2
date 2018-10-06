@@ -2422,4 +2422,20 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Halloween Magic" char="Silica" rarity="5"/>
     </Banner>
+
+    <Banner id="152">
+        <name>Through the Sunlight</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Innocent Curiosity" char="Kirito" rarity="6"/>
+        <Character prefix="Innocent Mind" char="Eugeo" rarity="6"/>
+        <Character prefix="Shining Look" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Stone Axe" rarity="4"/>
+        <Weapon name="Iron Axe" rarity="4"/>
+        <Weapon name="Touch of the Sun" rarity="4"/>
+    </Banner>
 </banners>
