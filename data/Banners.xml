@@ -2438,4 +2438,22 @@
         <Weapon name="Iron Axe" rarity="4"/>
         <Weapon name="Touch of the Sun" rarity="4"/>
     </Banner>
+
+    <Banner id="153">
+        <name>Kirito Birthday Scout 10.7.2018</name>
+        <type>17</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Will - Transcending the System" char="Kirito" rarity="6"/>
+        <Character prefix="Fortune comes in at the merry gate" char="Kirito" rarity="5"/>
+        <Character prefix="Stick to your beliefs" char="Kirito" rarity="5"/>
+        <Character prefix="Fellowship on the Field" char="Kirito" rarity="5"/>
+        <Character prefix="Black Master Swordsman" char="Kirito" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
+        <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
+        <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
+        <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
+        <Character prefix="Hero's Blessing" char="Kirito" rarity="5"/>
+    </Banner>
 </banners>
