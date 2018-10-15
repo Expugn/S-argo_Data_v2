@@ -2456,4 +2456,20 @@
         <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
         <Character prefix="Hero's Blessing" char="Kirito" rarity="5"/>
     </Banner>
+
+    <Banner id="154">
+        <name>Fallen Fairies in the Netherworld</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Devildom Swordsmith" char="Lisbeth" rarity="6"/>
+        <Character prefix="Baleful Magic Swordsman" char="Leafa" rarity="6"/>
+        <Character prefix="Helheim King" char="Makoto" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Distorted Desire" rarity="4"/>
+        <Weapon name="Ark Demon Spear" rarity="4"/>
+        <Weapon name="Black Fairy" rarity="4"/>
+    </Banner>
 </banners>
