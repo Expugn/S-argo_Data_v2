@@ -2472,4 +2472,18 @@
         <Weapon name="Ark Demon Spear" rarity="4"/>
         <Weapon name="Black Fairy" rarity="4"/>
     </Banner>
+
+    <Banner id="155">
+        <name>Wedding Anniversary 2018</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Joyful Wedding" char="Asuna" rarity="6"/>
+        <Character prefix="Promise at that Time" char="Kirito" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Great Blessing Blade" rarity="4"/>
+        <Weapon name="Great Blessing Saber" rarity="4"/>
+    </Banner>
 </banners>
