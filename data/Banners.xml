@@ -2486,4 +2486,14 @@
         <Weapon name="Great Blessing Blade" rarity="4"/>
         <Weapon name="Great Blessing Saber" rarity="4"/>
     </Banner>
+
+    <Banner id="156">
+        <name>2nd Anniversary - 6 Star Upgrade Vote Scout</name>
+        <type>17</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Unrestrained Emotion" char="Asuna" rarity="6"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="6"/>
+    </Banner>
 </banners>
