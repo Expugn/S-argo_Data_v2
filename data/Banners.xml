@@ -2496,4 +2496,29 @@
         <Character prefix="Unrestrained Emotion" char="Asuna" rarity="6"/>
         <Character prefix="Knights of the Blood" char="Kirito" rarity="6"/>
     </Banner>
+
+    <Banner id="157">
+        <name>Bewitching Fatuous Fire</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Baleful Karasu Tengu" char="Yuuki" rarity="6"/>
+        <Character prefix="Red Flash Divine Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Fiery Ogre Girl" char="Lisbeth" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Crow-billed Goblin Red Blade" rarity="4"/>
+        <Weapon name="Red Flame God Bow" rarity="4"/>
+        <Weapon name="Fiery Pixy Sledgehammer" rarity="4"/>
+    </Banner>
+
+    <Banner id="158">
+        <name>Kimono Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Shokan Ninjutsu" char="Argo" rarity="5"/>
+    </Banner>
 </banners>
