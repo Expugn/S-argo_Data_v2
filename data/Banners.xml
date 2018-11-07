@@ -2521,4 +2521,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Shokan Ninjutsu" char="Argo" rarity="5"/>
     </Banner>
+
+    <Banner id="159">
+        <name>Gale Blade</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Autumn Slasher" char="Alice" rarity="6"/>
+        <Character prefix="Whirlwind Young Warrior" char="Eugeo" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Fragrant Olive Katana" rarity="4"/>
+        <Weapon name="Blue Rose Katana" rarity="4"/>
+    </Banner>
 </banners>
