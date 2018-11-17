@@ -2535,4 +2535,18 @@
         <Weapon name="Fragrant Olive Katana" rarity="4"/>
         <Weapon name="Blue Rose Katana" rarity="4"/>
     </Banner>
+
+    <Banner id="160">
+        <name>Glowing Skin in Hazy Moonlight</name>
+        <type>18</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Hot Spring Angel" char="Asuna" rarity="6"/>
+        <Character prefix="Moonlight Maiden" char="Suguha" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Water Sword - Leaf" rarity="4"/>
+        <Weapon name="Water Lance - Maple" rarity="4"/>
+    </Banner>
 </banners>
