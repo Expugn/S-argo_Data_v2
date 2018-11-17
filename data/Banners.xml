@@ -2549,4 +2549,18 @@
         <Weapon name="Water Sword - Leaf" rarity="4"/>
         <Weapon name="Water Lance - Maple" rarity="4"/>
     </Banner>
+
+    <Banner id="161">
+        <name>Promised Sword</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Aincrad-Style" char="Kirito" rarity="6"/>
+        <Character prefix="Serlut-Style Inheritor" char="Sortiliena" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Black Trainee Sword" rarity="4"/>
+        <Weapon name="Platinous Oak" rarity="4"/>
+    </Banner>
 </banners>
