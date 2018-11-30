@@ -36,6 +36,7 @@
         16) SAO Game 5th Anniversary Step Up v3 (Same as SAO Game 5th Anniversary Step Up, but a gold+ rarity character is guaranteed on the first step.)
         17) Step Up v7 (Same as Step Up v2, but 50% discount on Step 1, 200 MD Step 3 w/ 1.5x increased rates for platinum6 characters, guaranteed platinum6 character on step 5, and repeating step 6 with 2x platinum6 rates.)
         18) Record Crystal v5 (Same as Record Crystal v4, but circulating record crystals are not obtainable.)
+        19) Step Up v8 (Same as Step Up v7, but includes the rest of the platinum characters into the general pool.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -48,6 +49,7 @@
         - "GoldBanner" (Included in the pool for Record Crystal guaranteed scouts)
         - "GoldBannerv2" (Included in the pool for Record Crystal v2 guaranteed scouts)
         - "PlatinumBanners" (Included in the pool for Step Up v7 scouts)
+        - "PlatinumBannersv2" (Included in the pool for Step Up v8 scouts)
 
         <exclude>
         Use this tag to stop a certain character from being used in GoldBanner/GoldBannerv2/PlatinumBanners/etc
@@ -1024,6 +1026,7 @@
         <type>3</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Will - Transcending the System" char="Kirito" rarity="5"/>
@@ -1052,6 +1055,7 @@
         <type>3</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
@@ -1067,6 +1071,7 @@
         <type>3</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
@@ -1086,6 +1091,7 @@
         <type>3</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Strong Mind" char="Klein" rarity="5"/>
@@ -1241,6 +1247,7 @@
         <type>5</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
@@ -1260,6 +1267,7 @@
         <type>7</type>
         <wepType>0</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
         <exclude>Promise_at_that_Time;Asuna;5</exclude>
 
         <!--> CHARACTER LIST <-->
@@ -1272,6 +1280,7 @@
         <type>5</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
@@ -1300,6 +1309,7 @@
         <type>7</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
@@ -1315,6 +1325,7 @@
         <type>5</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
@@ -1439,6 +1450,7 @@
         <type>7</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
@@ -1463,6 +1475,7 @@
         <type>3</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Votive Prayers" char="Asuna" rarity="5"/>
@@ -1495,6 +1508,7 @@
         <type>3</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Realization of Big Wishes" char="Leafa" rarity="5"/>
@@ -1514,6 +1528,7 @@
         <type>3</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
@@ -1533,6 +1548,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Stick to your beliefs" char="Kirito" rarity="5"/>
@@ -1548,6 +1564,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Affectionate Chocolatier" char="Asuna" rarity="5"/>
@@ -1576,6 +1593,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Accompanied By Animals" char="Sinon" rarity="5"/>
@@ -1611,6 +1629,7 @@
         <type>8</type>
         <wepType>2</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
@@ -1666,6 +1685,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
@@ -1710,6 +1730,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Youthful Days" char="Asuna" rarity="5"/>
@@ -1776,6 +1797,7 @@
         <type>8</type>
         <wepType>1</wepType>
         <include>PlatinumBanners</include>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Foxy Beauty" char="Asuna" rarity="5"/>
@@ -1822,6 +1844,7 @@
         <name>Cutie Pop Rockers - Fairy Magic</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Sweet Voice" char="Asuna" rarity="5"/>
@@ -1865,6 +1888,7 @@
         <name>Harmonic Resonance - Rainbow Sky</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Sweet Vocals" char="Seven" rarity="5"/>
@@ -1907,6 +1931,7 @@
         <name>Master Swordsmen in the Battlefield</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Black Master Swordsman" char="Kirito" rarity="5"/>
@@ -1934,6 +1959,7 @@
         <name>Hand in Hand - Children's Day</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="I'm not a kid" char="Asuna" rarity="5"/>
@@ -2041,6 +2067,7 @@
         <name>Passionate Bloom</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Unrestrained Emotion" char="Asuna" rarity="5"/>
@@ -2068,6 +2095,7 @@
         <name>So Psyched - Costume Change</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Flash with Wind" char="Asuna" rarity="5"/>
@@ -2086,6 +2114,7 @@
         <name>Fellow Soldiers in the Wilderness</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fellowship on the Field" char="Kirito" rarity="5"/>
@@ -2104,6 +2133,7 @@
         <name>Girl in Love - Summer Vacation</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Ocean Resort" char="Asuna" rarity="5"/>
@@ -2131,6 +2161,7 @@
         <name>Devoted Master Swordsmen</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Proud Sword" char="Alice" rarity="5"/>
@@ -2186,6 +2217,7 @@
         <name>Feel the Breeze - Welcome Summer</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Beach Lancer" char="Leafa" rarity="5"/>
@@ -2214,6 +2246,7 @@
         <name>Gods' Toughest Fight with Ragnarok</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Orgulous God" char="Kirito" rarity="5"/>
@@ -2241,6 +2274,7 @@
         <name>Fierce Fight in the Inferno of the Gods</name>
         <type>11</type>
         <wepType>1</wepType>
+        <include>PlatinumBannersv2</include>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Brave War God" char="Leafa" rarity="5"/>
@@ -2566,7 +2600,7 @@
 
     <Banner id="162">
         <name>The Snowy Gunners</name>
-        <type>17</type>
+        <type>19</type>
         <wepType>3</wepType>
 
         <!--> CHARACTER LIST <-->
