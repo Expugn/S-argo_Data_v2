@@ -2563,4 +2563,28 @@
         <Weapon name="Black Trainee Sword" rarity="4"/>
         <Weapon name="Platinous Oak" rarity="4"/>
     </Banner>
+
+    <Banner id="162">
+        <name>The Snowy Gunners</name>
+        <type>17</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Luminous Ornaments" char="Asuna" rarity="6"/>
+        <Character prefix="Twinkle Hearts" char="Silica" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Bullet Gift" rarity="4"/>
+        <Weapon name="Bell Sounds" rarity="4"/>
+    </Banner>
+
+    <Banner id="163">
+        <name>Bell Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Santa Surprise" char="LLENN" rarity="5"/>
+        <Character prefix="Parachute Reindeer" char="Fukaziroh" rarity="5"/>
+    </Banner>
 </banners>
