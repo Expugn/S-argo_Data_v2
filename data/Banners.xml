@@ -2621,4 +2621,18 @@
         <Character prefix="Santa Surprise" char="LLENN" rarity="5"/>
         <Character prefix="Parachute Reindeer" char="Fukaziroh" rarity="5"/>
     </Banner>
+
+    <Banner id="164">
+        <name>Pure-Hearted Novice Trainee</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Kind Apprentice Swordsman" char="Ronie" rarity="6"/>
+        <Character prefix="Devoted Apprentice Swordsman" char="Tiese" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Page Trainee's Black Sword" rarity="4"/>
+        <Weapon name="Page Trainee's Blue Sword" rarity="4"/>
+    </Banner>
 </banners>
