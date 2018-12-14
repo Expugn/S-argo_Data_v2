@@ -2635,4 +2635,18 @@
         <Weapon name="Page Trainee's Black Sword" rarity="4"/>
         <Weapon name="Page Trainee's Blue Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="165">
+        <name>Christmas Messengers</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Brilliant Gift" char="Yuuki" rarity="6"/>
+        <Character prefix="Christmas Shooting Star" char="Leafa" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Saintly Photon Sword" rarity="4"/>
+        <Weapon name="Strike of Rudolph" rarity="4"/>
+    </Banner>
 </banners>
