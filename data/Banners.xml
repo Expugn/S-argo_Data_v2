@@ -2649,4 +2649,17 @@
         <Weapon name="Saintly Photon Sword" rarity="4"/>
         <Weapon name="Strike of Rudolph" rarity="4"/>
     </Banner>
+    <Banner id="166">
+        <name>Comeback - My Heart's Snowfall</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Guide in Snow" char="Kirito" rarity="6"/>
+        <Character prefix="Snow Blessings" char="Sachi" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Dual Schneesturm +1" rarity="4"/>
+        <Weapon name="Eiszapfen +1" rarity="4"/>
+    </Banner>
 </banners>
