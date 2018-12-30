@@ -2662,4 +2662,27 @@
         <Weapon name="Dual Schneesturm +1" rarity="4"/>
         <Weapon name="Eiszapfen +1" rarity="4"/>
     </Banner>
+    <Banner id="167">
+        <name>The Twist of Fate</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Trust in Each Other" char="Kirito" rarity="6"/>
+        <Character prefix="Unwavering Commitment" char="Eugeo" rarity="6"/>
+        <Character prefix="Orderly Knight" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Elite Disciple Black Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Blue Rose Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Fragrant Olive Sword" rarity="4"/>
+    </Banner>
+    <Banner id="168">
+        <name>2nd Global Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Walking Tactics Manual" char="Sortiliena" rarity="4"/>
+    </Banner>
 </banners>
