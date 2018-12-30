@@ -2683,6 +2683,6 @@
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Walking Tactics Manual" char="Sortiliena" rarity="4"/>
+        <Character prefix="Walking Tactics Manual" char="Sortiliena" rarity="5"/>
     </Banner>
 </banners>
