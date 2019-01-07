@@ -2685,4 +2685,19 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Walking Tactics Manual" char="Sortiliena" rarity="5"/>
     </Banner>
+    <Banner id="169">
+        <name>A New World Bonding</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Sword of Hope" char="Asuna" rarity="6"/>
+        <Character prefix="The Courage to Surmount" char="Silica" rarity="6"/>
+        <Character prefix="The Strength of Friendship" char="Lisbeth" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Decisive Thrust" rarity="4"/>
+        <Weapon name="Black Gale" rarity="4"/>
+        <Weapon name="Black Unlimiter" rarity="4"/>
+    </Banner>
 </banners>
