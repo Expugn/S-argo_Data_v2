@@ -37,6 +37,7 @@
         17) Step Up v7 (Same as Step Up v2, but 50% discount on Step 1, 200 MD Step 3 w/ 1.5x increased rates for platinum6 characters, guaranteed platinum6 character on step 5, and repeating step 6 with 2x platinum6 rates.)
         18) Record Crystal v5 (Same as Record Crystal v4, but circulating record crystals are not obtainable.)
         19) Step Up v8 (Same as Step Up v7, but includes the rest of the platinum characters into the general pool.)
+        20) Record Crystal v6 (Same as Record Crystal v4, but introduces platinum6 characters and gold rarity characters are no longer available in the record crystal scout.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -2719,5 +2720,30 @@
         <Weapon name="Sea God Sword" rarity="4"/>
         <Weapon name="Amaterasu Sword" rarity="4"/>
         <Weapon name="Moon God Bow" rarity="4"/>
+    </Banner>
+
+    <Banner id="171">
+        <name>Eternal Singing Voice</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Singing Voice in the Battle" char="Yuna" rarity="6"/>
+        <Character prefix="AR Sword master" char="Kirito" rarity="6"/>
+        <Character prefix="Faith in Heart" char="Asuna" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Sword of Heart" rarity="4"/>
+        <Weapon name="Enhance Incarnate Last Promise" rarity="4"/>
+        <Weapon name="Enhance Incarnate Flame Courage" rarity="4"/>
+    </Banner>
+
+    <Banner id="172">
+        <name>Chocolatier Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Melting in the Mouth" char="Strea" rarity="5"/>
     </Banner>
 </banners>
