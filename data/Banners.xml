@@ -2723,6 +2723,15 @@
     </Banner>
 
     <Banner id="171">
+        <name>Global 2nd Anniversary Special Log-in Bonus</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Noble Integrity Knight" char="Alice" rarity="6"/>
+    </Banner>
+
+    <Banner id="172">
         <name>Eternal Singing Voice</name>
         <type>20</type>
         <wepType>3</wepType>
@@ -2738,7 +2747,7 @@
         <Weapon name="Enhance Incarnate Flame Courage" rarity="4"/>
     </Banner>
 
-    <Banner id="172">
+    <Banner id="173">
         <name>Chocolatier Gold Medal Scout</name>
         <type>9</type>
         <wepType>0</wepType>
@@ -2747,7 +2756,7 @@
         <Character prefix="Melting in the Mouth" char="Strea" rarity="5"/>
     </Banner>
 
-    <Banner id="173">
+    <Banner id="174">
         <name>Strong Will to go Beyond</name>
         <type>19</type>
         <wepType>3</wepType>
