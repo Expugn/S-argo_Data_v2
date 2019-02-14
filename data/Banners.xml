@@ -2769,4 +2769,18 @@
         <Weapon name="Black Stormy Sword" rarity="4"/>
         <Weapon name="Blue Rose Wind Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="175">
+        <name>Lured Fairies in the Netherworld</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Magical Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Tamer of the Dragon Den" char="Silica" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Demon's Wings" rarity="4"/>
+        <Weapon name="Blade of Eyes" rarity="4"/>
+    </Banner>
 </banners>
