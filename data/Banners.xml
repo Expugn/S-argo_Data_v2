@@ -2783,4 +2783,22 @@
         <Weapon name="Demon's Wings" rarity="4"/>
         <Weapon name="Blade of Eyes" rarity="4"/>
     </Banner>
+
+    <Banner id="102">
+        <name>Ordinal Scale 2nd Movie Release Anniversary - Reawakened Memories</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Strong Faith" char="Kirito" rarity="6"/>
+        <Character prefix="Robust Faith" char="Asuna" rarity="6"/>
+        <Character prefix="Ordinal Number 2nd" char="Eiji" rarity="6"/>
+        <Character prefix="Shifting Idol Singer" char="Yuna" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Eternal Promise +1" rarity="4"/>
+        <Weapon name="Deep Courage +1" rarity="4"/>
+        <Weapon name="Sword of Nautilus +1" rarity="4"/>
+        <Weapon name="Emotiongraphy +1" rarity="4"/>
+    </Banner>
 </banners>
