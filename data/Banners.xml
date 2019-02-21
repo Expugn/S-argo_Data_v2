@@ -2801,4 +2801,18 @@
         <Weapon name="Sword of Nautilus +1" rarity="4"/>
         <Weapon name="Emotiongraphy +1" rarity="4"/>
     </Banner>
+
+    <Banner id="177">
+        <name>A Smile For You</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sharing This Moment" char="Nautilus" rarity="6"/>
+        <Character prefix="Warmth of Your Hand" char="Yuna" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Edge of Resonance" rarity="4"/>
+        <Weapon name="Minstrel Fleuret" rarity="4"/>
+    </Banner>
 </banners>
