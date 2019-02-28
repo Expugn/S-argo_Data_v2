@@ -2815,4 +2815,29 @@
         <Weapon name="Edge of Resonance" rarity="4"/>
         <Weapon name="Minstrel Fleuret" rarity="4"/>
     </Banner>
+
+    <Banner id="178">
+        <name>Peach Blossom Doll Party</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Pure Princess" char="Asuna" rarity="6"/>
+        <Character prefix="Innocent Hina Doll" char="Suguha" rarity="6"/>
+        <Character prefix="Ingenuous Hina Doll" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Princess Divine Light Bow" rarity="4"/>
+        <Weapon name="Shooting Star Lance" rarity="4"/>
+        <Weapon name="Shining Blade" rarity="4"/>
+    </Banner>
+
+    <Banner id="179">
+        <name>Hina Doll Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Peach Blossom in Full Glory" char="Philia" rarity="5"/>
+    </Banner>
 </banners>
