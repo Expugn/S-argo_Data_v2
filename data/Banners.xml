@@ -2840,4 +2840,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Peach Blossom in Full Glory" char="Philia" rarity="5"/>
     </Banner>
+
+    <Banner id="180">
+        <name>Blades Beyond Time and Space</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Vice Comdr. of the Int. Knights" char="Fanatio" rarity="6"/>
+        <Character prefix="Comdr. of the Integrity Knights" char="Bercouli" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Heaven-Piercing Blade" rarity="4"/>
+        <Weapon name="Time-Splitting Sword" rarity="4"/>
+    </Banner>
 </banners>
