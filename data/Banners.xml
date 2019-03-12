@@ -2854,4 +2854,18 @@
         <Weapon name="Heaven-Piercing Blade" rarity="4"/>
         <Weapon name="Time-Splitting Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="181">
+        <name>Upgraded Character Scout - The Vernal Memory of Uniform</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Youthful Days" char="Asuna" rarity="6"/>
+        <Character prefix="The Coveted Life" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Cherry Blossom Longbow +1" rarity="4"/>
+        <Weapon name="Spring Evening Spear +1" rarity="4"/>
+    </Banner>
 </banners>
