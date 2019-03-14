@@ -2868,4 +2868,18 @@
         <Weapon name="Cherry Blossom Longbow +1" rarity="4"/>
         <Weapon name="Spring Evening Spear +1" rarity="4"/>
     </Banner>
+
+    <Banner id="182">
+        <name>Swordsman in School Uniform - Asuna and Yuuki</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Leading Swordsman" char="Asuna" rarity="6"/>
+        <Character prefix="Instant Attack" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Afterglow" rarity="4"/>
+        <Weapon name="Black Jade Sword" rarity="4"/>
+    </Banner>
 </banners>
