@@ -38,6 +38,7 @@
         18) Record Crystal v5 (Same as Record Crystal v4, but circulating record crystals are not obtainable.)
         19) Step Up v8 (Same as Step Up v7, but includes the rest of the platinum characters into the general pool.)
         20) Record Crystal v6 (Same as Record Crystal v4, but introduces platinum6 characters and gold rarity characters are no longer available in the record crystal scout.)
+        21) Step Up v9 (Same as Step Up v8, but the first character in the banner has 1/2 of the platinum6 rates to themselves and any additional characters share the other half. Also on step 5, the first character is guaranteed.)
 
         <wepType>
         0) Normal (Static scout rates, nothing special)
@@ -2881,5 +2882,24 @@
         <!--> WEAPON LIST <-->
         <Weapon name="Afterglow" rarity="4"/>
         <Weapon name="Black Jade Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="181">
+        <name>Anime Climax Special Scout</name>
+        <type>21</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Breaking the Seal" char="Alice" rarity="6"/>
+        <Character prefix="Innocent Curiosity" char="Kirito" rarity="6"/>
+        <Character prefix="Innocent Mind" char="Eugeo" rarity="6"/>
+        <Character prefix="Shining Look" char="Alice" rarity="6"/>
+        <Character prefix="Aincrad-Style" char="Kirito" rarity="6"/>
+        <Character prefix="Serlut-Style Inheritor" char="Sortiliena" rarity="6"/>
+        <Character prefix="Kind Apprentice Swordsman" char="Ronie" rarity="6"/>
+        <Character prefix="Devoted Apprentice Swordsman" char="Tiese" rarity="6"/>
+        <Character prefix="Trust in Each Other" char="Kirito" rarity="6"/>
+        <Character prefix="Orderly Knight" char="Alice" rarity="6"/>
+        <Character prefix="Unwavering Commitment" char="Eugeo" rarity="6"/>
     </Banner>
 </banners>
