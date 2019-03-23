@@ -2902,4 +2902,18 @@
         <Character prefix="Orderly Knight" char="Alice" rarity="6"/>
         <Character prefix="Unwavering Commitment" char="Eugeo" rarity="6"/>
     </Banner>
+
+    <Banner id="184">
+        <name>Swordsman in School Uniform - Sinon and Rain</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Long Range Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Dual Wielding Swordsman" char="Rain" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Earth-Piercing Bow" rarity="4"/>
+        <Weapon name="Crimson Lethal Sword x2" rarity="4"/>
+    </Banner>
 </banners>
