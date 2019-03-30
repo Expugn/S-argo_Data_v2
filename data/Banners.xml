@@ -2916,4 +2916,29 @@
         <Weapon name="Earth-Piercing Bow" rarity="4"/>
         <Weapon name="Crimson Lethal Sword x2" rarity="4"/>
     </Banner>
+
+    <Banner id="185">
+        <name>Sweet Happy Dreams</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Milky Angel" char="Asuna" rarity="6"/>
+        <Character prefix="Twilight Kiss" char="Alice" rarity="6"/>
+        <Character prefix="Mellow Love" char="Leafa" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Dressy Bow Knife" rarity="4"/>
+        <Weapon name="Sunset Spear" rarity="4"/>
+        <Weapon name="Happy Dream Saber" rarity="4"/>
+    </Banner>
+
+    <Banner id="186">
+        <name>Sleeping Together Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Seductress" char="Administrator" rarity="5"/>
+    </Banner>
 </banners>
