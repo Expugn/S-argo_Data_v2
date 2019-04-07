@@ -2941,4 +2941,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Seductress" char="Administrator" rarity="5"/>
     </Banner>
+
+    <Banner id="187">
+        <name>Reunion at the World Tree</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Gilded Hero" char="Kirito" rarity="6"/>
+        <Character prefix="Captured Princess" char="Asuna" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Lunatic Blade x2" rarity="4"/>
+        <Weapon name="Fairy Grace" rarity="4"/>
+    </Banner>
 </banners>
