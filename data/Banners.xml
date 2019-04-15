@@ -2955,4 +2955,18 @@
         <Weapon name="Lunatic Blade x2" rarity="4"/>
         <Weapon name="Fairy Grace" rarity="4"/>
     </Banner>
+
+    <Banner id="188">
+        <name>Catnap on a Starry Night</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Midnight Dream" char="Yuuki" rarity="6"/>
+        <Character prefix="Sweet Romance" char="Tiese" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Etoile Epee x2" rarity="4"/>
+        <Weapon name="Brilliant Sword" rarity="4"/>
+    </Banner>
 </banners>
