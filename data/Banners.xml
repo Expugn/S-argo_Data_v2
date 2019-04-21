@@ -2969,4 +2969,30 @@
         <Weapon name="Etoile Epee x2" rarity="4"/>
         <Weapon name="Brilliant Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="189">
+        <name>Leafa Birthday Scout 4.19.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Blade - Facing the Feelings" char="Leafa" rarity="6"/>
+        <Character prefix="Baleful Magic Swordsman" char="Leafa" rarity="6"/>
+        <Character prefix="Moonlight Maiden" char="Suguha" rarity="6"/>
+        <Character prefix="Christmas Shooting Star" char="Leafa" rarity="6"/>
+        <Character prefix="Innocent Hina Doll" char="Suguha" rarity="6"/>
+        <Character prefix="Flush of Youth" char="Leafa" rarity="5"/>
+        <Character prefix="Beauty in Secluded Hot Springs" char="Leafa" rarity="5"/>
+        <Character prefix="Realization of Big Wishes" char="Leafa" rarity="5"/>
+        <Character prefix="Flying Without Wings" char="Leafa" rarity="5"/>
+        <Character prefix="Innocent Puppy" char="Leafa" rarity="5"/>
+        <Character prefix="Passionate Strumming" char="Leafa" rarity="5"/>
+        <Character prefix="Gale Gunner" char="Leafa" rarity="5"/>
+        <Character prefix="Swifty Slash" char="Leafa" rarity="5"/>
+        <Character prefix="Magical Bullet" char="Leafa" rarity="5"/>
+        <Character prefix="The Brave War God" char="Leafa" rarity="5"/>
+        <Character prefix="Beach Lancer" char="Leafa" rarity="5"/>
+        <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
+        <Character prefix="Unrequited Love" char="Suguha" rarity="5"/>
+    </Banner>
 </banners>
