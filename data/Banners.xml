@@ -2995,4 +2995,18 @@
         <Character prefix="Gorgeous Priestess Costume" char="Suguha" rarity="5"/>
         <Character prefix="Unrequited Love" char="Suguha" rarity="5"/>
     </Banner>
+
+    <Banner id="190">
+        <name>6 Star Holy and Dark Element Selection Scout</name>
+        <type>20</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Luminous Ornaments" char="Asuna" rarity="6"/>
+        <Character prefix="Amaterasu the Sun Goddess" char="Suguha" rarity="6"/>
+        <Character prefix="Moonlit Lark" char="Asuna" rarity="6"/>
+        <Character prefix="Tsukuyomi" char="Sinon" rarity="6"/>
+        <Character prefix="Twinkle Hearts" char="Silica" rarity="6"/>
+        <Character prefix="Beautiful Monster" char="Alice" rarity="6"/>
+    </Banner>
 </banners>
