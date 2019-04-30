@@ -3009,4 +3009,37 @@
         <Character prefix="Twinkle Hearts" char="Silica" rarity="6"/>
         <Character prefix="Beautiful Monster" char="Alice" rarity="6"/>
     </Banner>
+
+    <Banner id="191">
+        <name>Comic Anthology Celebration CP</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Graceful Vice Commander" char="Asuna" rarity="6"/>
+        <Character prefix="Speedaholic" char="Leafa" rarity="6"/>
+    </Banner>
+
+    <Banner id="192">
+        <name>Fascinated Fairies in the Netherworld</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Freezing Magic Bow" char="Asuna" rarity="6"/>
+        <Character prefix="Ice Magic Blade" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Nightmare Icicle" rarity="4"/>
+        <Weapon name="Despair Dagger" rarity="4"/>
+    </Banner>
+
+    <Banner id="193">
+        <name>Helheim Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Cuddling Gremlins" char="Yui" rarity="6"/>
+    </Banner>
 </banners>
