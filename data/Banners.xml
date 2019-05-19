@@ -3056,4 +3056,51 @@
         <Weapon name="Ruler's War Fan" rarity="4"/>
         <Weapon name="Stone Slicing Twin Swords" rarity="4"/>
     </Banner>
+
+    <Banner id="195">
+        <name>Upgraded Character Scout - Hand in Hand - Children's Day</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="I'm not a kid" char="Asuna" rarity="6"/>
+        <Character prefix="Feels like a big sis" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Fish Scale Sword +1" rarity="4"/>
+        <Weapon name="Self Defense Blade +1" rarity="4"/>
+    </Banner>
+
+    <Banner id="196">
+        <name>The Knights New Battleground</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Noble Gunner in the Wild" char="Alice" rarity="6"/>
+        <Character prefix="Honest Gunner in the Wild" char="Eugeo" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="RoyalGuard" rarity="4"/>
+        <Weapon name="AR Blue Rose" rarity="4"/>
+    </Banner>
+
+    <Banner id="197">
+        <name>Lisbeth Birthday Scout 5.18.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Shine Parasol" char="Lisbeth" rarity="6"/>
+        <Character prefix="Devildom Swordsmith" char="Lisbeth" rarity="6"/>
+        <Character prefix="Fiery Ogre Girl" char="Lisbeth" rarity="6"/>
+        <Character prefix="The Strength of Friendship" char="Lisbeth" rarity="6"/>
+        <Character prefix="Harmony Keeper" char="Lisbeth" rarity="5"/>
+        <Character prefix="Fly a Shuttlecock with My Heart" char="Lisbeth" rarity="5"/>
+        <Character prefix="Pure Hearted Chocolatier" char="Lisbeth" rarity="5"/>
+        <Character prefix="Groovy Sound" char="Lisbeth" rarity="5"/>
+        <Character prefix="Hopeful Smile" char="Lisbeth" rarity="5"/>
+        <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
+        <Character prefix="Stout Heart in the World of Steel" char="Lisbeth" rarity="5"/>
+    </Banner>
 </banners>
