@@ -3103,4 +3103,27 @@
         <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
         <Character prefix="Stout Heart in the World of Steel" char="Lisbeth" rarity="5"/>
     </Banner>
+
+    <Banner id="198">
+        <name>Yuuki Birthday Scout 5.23.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Summer Splash" char="Yuuki" rarity="6"/>
+        <Character prefix="Baleful Karasu Tengu" char="Yuuki" rarity="6"/>
+        <Character prefix="Brilliant Gift" char="Yuuki" rarity="6"/>
+        <Character prefix="Instant Attack" char="Yuuki" rarity="6"/>
+        <Character prefix="Susanoo" char="Yuuki" rarity="6"/>
+        <Character prefix="Wish Granter" char="Yuuki" rarity="5"/>
+        <Character prefix="The Bunny Ace" char="Yuuki" rarity="5"/>
+        <Character prefix="Innocent Chocolatier" char="Yuuki" rarity="5"/>
+        <Character prefix="New Year's Breeze" char="Yuuki" rarity="5"/>
+        <Character prefix="Feels like a big sis" char="Yuuki" rarity="5"/>
+        <Character prefix="Zekken in the Wilderness" char="Yuuki" rarity="5"/>
+        <Character prefix="Deceiver of the Gods" char="Yuuki" rarity="5"/>
+        <Character prefix="Sparkling Zekken" char="Yuuki" rarity="5"/>
+        <Character prefix="The Coveted Life" char="Yuuki" rarity="5"/>
+        <Character prefix="Funky Play" char="Yuuki" rarity="5"/>
+    </Banner>
 </banners>
