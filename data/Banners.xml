@@ -3040,7 +3040,7 @@
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Cuddling Gremlins" char="Yui" rarity="6"/>
+        <Character prefix="Cuddling Gremlins" char="Yui" rarity="5"/>
     </Banner>
 
     <Banner id="194">
@@ -3125,5 +3125,37 @@
         <Character prefix="Sparkling Zekken" char="Yuuki" rarity="5"/>
         <Character prefix="The Coveted Life" char="Yuuki" rarity="5"/>
         <Character prefix="Funky Play" char="Yuuki" rarity="5"/>
+    </Banner>
+
+    <Banner id="199">
+        <name>Original Character Celebration Login CP</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Fluffy Bunny" char="Umino" rarity="6"/>
+    </Banner>
+
+    <Banner id="200">
+        <name>Bride of Whirling Bullets</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Tie the Knot" char="Asuna" rarity="6"/>
+        <Character prefix="Promised Happiness" char="Lisbeth" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Innocent Diamond" rarity="4"/>
+        <Weapon name="Grace of Emerald" rarity="4"/>
+    </Banner>
+
+    <Banner id="201">
+        <name>Battlefield Bride Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Pure Bride" char="Sachi" rarity="5"/>
     </Banner>
 </banners>
