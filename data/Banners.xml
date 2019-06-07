@@ -3158,4 +3158,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Pure Bride" char="Sachi" rarity="5"/>
     </Banner>
+
+    <Banner id="202">
+        <name>Heart Fluttering Poolside</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="One Summer's Memory" char="Ronie" rarity="6"/>
+        <Character prefix="Midsummer's Innocence" char="Tiese" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Skylight Flowering Sword" rarity="4"/>
+        <Weapon name="Warm River Stream Sword" rarity="4"/>
+    </Banner>
 </banners>
