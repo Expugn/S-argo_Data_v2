@@ -3172,4 +3172,18 @@
         <Weapon name="Skylight Flowering Sword" rarity="4"/>
         <Weapon name="Warm River Stream Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="203">
+        <name>Battlefield Blitz Bloody Bride</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Hidden Passion" char="Sinon" rarity="6"/>
+        <Character prefix="Find the Prince" char="Silica" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Majestic Ruby" rarity="4"/>
+        <Weapon name="Wisdom of Pink Topaz" rarity="4"/>
+    </Banner>
 </banners>
