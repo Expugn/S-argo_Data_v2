@@ -3186,4 +3186,18 @@
         <Weapon name="Majestic Ruby" rarity="4"/>
         <Weapon name="Wisdom of Pink Topaz" rarity="4"/>
     </Banner>
+
+    <Banner id="204">
+        <name>Rain Birthday Scout 6.21.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Fluttering Petals" char="Rain" rarity="6"/>
+        <Character prefix="Tiny Big Sister" char="Rain" rarity="6"/>
+        <Character prefix="Dual Wielding Swordsman" char="Rain" rarity="6"/>
+        <Character prefix="Dolphin Jumper" char="Rain" rarity="5"/>
+        <Character prefix="Countless Swords Blessing" char="Rain" rarity="5"/>
+        <Character prefix="Cool Drum Beats" char="Rain" rarity="5"/>
+    </Banner>
 </banners>
