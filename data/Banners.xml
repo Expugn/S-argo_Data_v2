@@ -3200,4 +3200,79 @@
         <Character prefix="Countless Swords Blessing" char="Rain" rarity="5"/>
         <Character prefix="Cool Drum Beats" char="Rain" rarity="5"/>
     </Banner>
+
+    <Banner id="205">
+        <name>My Friend - My Hero</name>
+        <type>21</type>
+        <!-->
+        SEE BELOW WEAPON LIST FOR MORE NOTES
+        <wepType>4</wepType>
+        <-->
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="My Hero" char="Kirito" rarity="6"/>
+        <Character prefix="Innocent Curiosity" char="Kirito" rarity="6"/>
+        <Character prefix="Innocent Mind" char="Eugeo" rarity="6"/>
+        <Character prefix="Shining Look" char="Alice" rarity="6"/>
+        <Character prefix="Aincrad-Style" char="Kirito" rarity="6"/>
+        <Character prefix="Serlut-Style Inheritor" char="Sortiliena" rarity="6"/>
+        <Character prefix="Kind Apprentice Swordsman" char="Ronie" rarity="6"/>
+        <Character prefix="Devoted Apprentice Swordsman" char="Tiese" rarity="6"/>
+        <Character prefix="Trust in Each Other" char="Kirito" rarity="6"/>
+        <Character prefix="Orderly Knight" char="Alice" rarity="6"/>
+        <Character prefix="Unwavering Commitment" char="Eugeo" rarity="6"/>
+        <Character prefix="The Path You Choose" char="Kirito" rarity="6"/>
+        <Character prefix="The Oath Sword" char="Eugeo" rarity="6"/>
+        <Character prefix="Vice Comdr. of the Int. Knights" char="Fanatio" rarity="6"/>
+        <Character prefix="Comdr. of the Integrity Knights" char="Bercouli" rarity="6"/>
+        <Character prefix="Breaking the Seal" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <!-->
+        BANNER WEAPON STEP IS NOT IMPLEMENTED YET.
+        NIGHT SKY SWORD X RED ROSE SWORD IS GUARANTEED AT STEP 5
+        ALSO NIGHT SKY SWORD X RED ROSE SWORD HAS 2% (50% OF 4STAR WEAPON RATE)
+        OTHER WEAPONS SHARE THE OTHER HALF OF THE 2%
+
+        <Weapon name="Night Sky Sword x Red Rose Sword" rarity="4"/>
+        <Weapon name="Stone Axe" rarity="4"/>
+        <Weapon name="Iron Axe" rarity="4"/>
+        <Weapon name="Touch of the Sun" rarity="4"/>
+        <Weapon name="Black Trainee Sword" rarity="4"/>
+        <Weapon name="Platinous Oak" rarity="4"/>
+        <Weapon name="Page Trainee's Black Sword" rarity="4"/>
+        <Weapon name="Page Trainee's Blue Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Elite Disciple Black Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Fragrant Olive Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Blue Rose Sword" rarity="4"/>
+        <Weapon name="Black Stormy Sword" rarity="4"/>
+        <Weapon name="Blue Rose Wind Sword" rarity="4"/>
+        <Weapon name="Heaven-Piercing Blade" rarity="4"/>
+        <Weapon name="Time-Splitting Sword" rarity="4"/>
+        <-->
+    </Banner>
+
+    <Banner id="206">
+        <name>Raising The Curtain in the World of Mixed Steel</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Revived Crest Light" char="Asuna" rarity="6"/>
+        <Character prefix="Black Suited Gunner" char="Kirito" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Kagemitsu G3 ASN" rarity="4"/>
+        <Weapon name="Tsukikage Rakshasa" rarity="4"/>
+    </Banner>
+
+    <Banner id="207">
+        <name>Hand Grenade Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Smokey Blacksmith" char="Lisbeth" rarity="5"/>
+    </Banner>
 </banners>
