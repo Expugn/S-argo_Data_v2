@@ -3275,4 +3275,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Smokey Blacksmith" char="Lisbeth" rarity="5"/>
     </Banner>
+
+    <Banner id="208">
+        <name>Disturbance in the World of Mixed Steel</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Winning Procedure" char="Sinon" rarity="6"/>
+        <Character prefix="Frontline Methods" char="Silica" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Hecate Coeur" rarity="4"/>
+        <Weapon name="Wirbelwind KZ2" rarity="4"/>
+    </Banner>
 </banners>
