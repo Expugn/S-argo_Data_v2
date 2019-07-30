@@ -3289,4 +3289,41 @@
         <Weapon name="Hecate Coeur" rarity="4"/>
         <Weapon name="Wirbelwind KZ2" rarity="4"/>
     </Banner>
+
+    <Banner id="209">
+        <name>New Start in the World of Mixed Steel</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Photon Sword Dancing in the Wind" char="Rain" rarity="6"/>
+        <Character prefix="Photon Voice Fluttering in the Wind" char="Seven" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Aoi x2" rarity="4"/>
+        <Weapon name="Tonbokiri" rarity="4"/>
+    </Banner>
+
+    <Banner id="210">
+        <name>2nd Korean Anniversary Login Campaign</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Woof Woof Swordsman" char="Ronie" rarity="6"/>
+    </Banner>
+
+    <Banner id="211">
+        <name>Upgradable Character Scout - Bullet Battle Royal</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Pink in Battle" char="LLENN" rarity="6"/>
+        <Character prefix="Toxic Gun Master" char="Pitohui" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="my darling P. +1" rarity="4"/>
+        <Weapon name="Serpens G-P-1 +1" rarity="4"/>
+    </Banner>
 </banners>
