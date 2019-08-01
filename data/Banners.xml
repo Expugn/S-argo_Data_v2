@@ -46,6 +46,7 @@
         2) GGO Step Up (100 MD scout w/ guaranteed Copper+ Automatic Rifle, 1.5x rates for Gold on step 3,
                         Guaranteed Gold on step 5, and 2.0x rates for Gold on step 6, repeats at 6)
         3) Step Up v2 (100 MD scout step 1, 100 MD + 1.5x rates for gold weapon on step 3, guaranteed gold weapon step 5, and 2.0x rates for gold weapons on step 6, repeats at 6)
+        4) Step Up v3 (100 MD scout step 1, 100 MD + 1.5x rates for gold weapon on step 3, guaranteed gold weapon (first in the list only) step 5, and 2.0x rates for gold weapons on step 6, repeats at 6)
 
         <include>
         - "GoldBanner" (Included in the pool for Record Crystal guaranteed scouts)
@@ -3204,11 +3205,7 @@
     <Banner id="205">
         <name>My Friend - My Hero</name>
         <type>21</type>
-        <!-->
-        SEE BELOW WEAPON LIST FOR MORE NOTES
         <wepType>4</wepType>
-        <-->
-        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="My Hero" char="Kirito" rarity="6"/>
@@ -3229,12 +3226,6 @@
         <Character prefix="Breaking the Seal" char="Alice" rarity="6"/>
 
         <!--> WEAPON LIST <-->
-        <!-->
-        BANNER WEAPON STEP IS NOT IMPLEMENTED YET.
-        NIGHT SKY SWORD X RED ROSE SWORD IS GUARANTEED AT STEP 5
-        ALSO NIGHT SKY SWORD X RED ROSE SWORD HAS 2% (50% OF 4STAR WEAPON RATE)
-        OTHER WEAPONS SHARE THE OTHER HALF OF THE 2%
-
         <Weapon name="Night Sky Sword x Red Rose Sword" rarity="4"/>
         <Weapon name="Stone Axe" rarity="4"/>
         <Weapon name="Iron Axe" rarity="4"/>
@@ -3250,7 +3241,6 @@
         <Weapon name="Blue Rose Wind Sword" rarity="4"/>
         <Weapon name="Heaven-Piercing Blade" rarity="4"/>
         <Weapon name="Time-Splitting Sword" rarity="4"/>
-        <-->
     </Banner>
 
     <Banner id="206">
@@ -3325,5 +3315,28 @@
         <!--> WEAPON LIST <-->
         <Weapon name="my darling P. +1" rarity="4"/>
         <Weapon name="Serpens G-P-1 +1" rarity="4"/>
+    </Banner>
+
+    <Banner id="212">
+        <name>Midgard Maiden Warriors - First Summer</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Lovely Eternal Summer Warrior" char="Asuna" rarity="6"/>
+        <Character prefix="Elegant Eternal Summer Knight Alice" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Eternal Nexus" rarity="4"/>
+        <Weapon name="Treasured Heavenly Flower" rarity="4"/>
+    </Banner>
+
+    <Banner id="213">
+        <name>#3 Countdown Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Seaside Daughter" char="Yui" rarity="5"/>
     </Banner>
 </banners>
