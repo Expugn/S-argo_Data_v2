@@ -3324,7 +3324,7 @@
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Lovely Eternal Summer Warrior" char="Asuna" rarity="6"/>
-        <Character prefix="Elegant Eternal Summer Knight Alice" char="Alice" rarity="6"/>
+        <Character prefix="Elegant Eternal Summer Knight" char="Alice" rarity="6"/>
 
         <!--> WEAPON LIST <-->
         <Weapon name="Eternal Nexus" rarity="4"/>
