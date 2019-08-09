@@ -3339,4 +3339,18 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Seaside Daughter" char="Yui" rarity="5"/>
     </Banner>
+
+    <Banner id="214">
+        <name>Duo of Destiny</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Conqueror of Love" char="Administrator" rarity="6"/>
+        <Character prefix="Another Master Priest" char="Cardinal" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Silvery Eternity R" rarity="4"/>
+        <Weapon name="Cardinal Staff" rarity="4"/>
+    </Banner>
 </banners>
