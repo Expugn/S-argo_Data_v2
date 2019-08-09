@@ -3343,7 +3343,7 @@
     <Banner id="214">
         <name>Duo of Destiny</name>
         <type>19</type>
-        <wepType>0</wepType>
+        <wepType>3</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Conqueror of Love" char="Administrator" rarity="6"/>
