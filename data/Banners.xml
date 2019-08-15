@@ -3353,4 +3353,18 @@
         <Weapon name="Silvery Eternity R" rarity="4"/>
         <Weapon name="Cardinal Staff" rarity="4"/>
     </Banner>
+
+    <Banner id="215">
+        <name>Midgard Maiden Warriors - MidSummer</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Enchanting Eternal Summer Warrior" char="Leafa" rarity="6"/>
+        <Character prefix="Mischievous EternalSummer Warrior" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Sturmmesser" rarity="4"/>
+        <Weapon name="Dunkelheit Zwei" rarity="4"/>
+    </Banner>
 </banners>
