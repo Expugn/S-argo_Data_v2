@@ -3367,4 +3367,34 @@
         <Weapon name="Sturmmesser" rarity="4"/>
         <Weapon name="Dunkelheit Zwei" rarity="4"/>
     </Banner>
+
+    <Banner id="216">
+        <name>Sinon Birthday Scout 8.21.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sky Bow" char="Sinon" rarity="6"/>
+        <Character prefix="Tsukuyomi" char="Sinon" rarity="6"/>
+        <Character prefix="Magical Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Hidden Passion" char="Sinon" rarity="6"/>
+        <Character prefix="Winning Procedure" char="Sinon" rarity="6"/>
+        <Character prefix="Red Flash Divine Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Long Range Archer" char="Sinon" rarity="6"/>
+        <Character prefix="Tomboy Cat Fairy" char="Sinon" rarity="6"/>
+        <Character prefix="The Archer - Overcoming the Past" char="Sinon" rarity="5"/>
+        <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
+        <Character prefix="Sniper in Love" char="Sinon" rarity="5"/>
+        <Character prefix="The Wild Joker" char="Sinon" rarity="5"/>
+        <Character prefix="Swing a Battledore with Love" char="Sinon" rarity="5"/>
+        <Character prefix="The Unexpected" char="Sinon" rarity="5"/>
+        <Character prefix="Clear a path for your future" char="Sinon" rarity="5"/>
+        <Character prefix="Accompanied By Animals" char="Sinon" rarity="5"/>
+        <Character prefix="Cute Bunny" char="Sinon" rarity="5"/>
+        <Character prefix="Perfect Play" char="Sinon" rarity="5"/>
+        <Character prefix="Leaning on My Fellow Soldier" char="Sinon" rarity="5"/>
+        <Character prefix="Illusion Killer" char="Sinon" rarity="5"/>
+        <Character prefix="The Death Queen" char="Sinon" rarity="5"/>
+        <Character prefix="Sparkling Gunner" char="Sinon" rarity="5"/>
+    </Banner>
 </banners>
