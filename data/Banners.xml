@@ -3397,4 +3397,42 @@
         <Character prefix="The Death Queen" char="Sinon" rarity="5"/>
         <Character prefix="Sparkling Gunner" char="Sinon" rarity="5"/>
     </Banner>
+
+    <Banner id="217">
+        <name>Commercial Broadcast Special Login Campaign</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Rocking Into Space" char="Yoshitsugu" rarity="6"/>
+        <Character prefix="Reaching Greater Heights" char="Nobunaga" rarity="6"/>
+    </Banner>
+
+    <Banner id="218">
+        <name>Relive the Memory 1st</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Heart of the Sword" char="Kirito" rarity="6"/>
+        <Character prefix="Oath of the Sword" char="Eugeo" rarity="6"/>
+        <Character prefix="Heir to the Sword" char="Asuna" rarity="6"/>
+        <Character prefix="Together for Eternity" char="Yuuki" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Night Sky Starry Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Blue Rose Ice Sword" rarity="4"/>
+        <Weapon name="Enhance Incarnate Ray of Grace" rarity="4"/>
+        <Weapon name="Enhance Incarnate Obsidian Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="219">
+        <name>3rd Anniversary Ticket VIP Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Creator of the New World" char="Thokk" rarity="5"/>
+        <Character prefix="Time Traveler" char="Makoto" rarity="5"/>
+    </Banner>
 </banners>
