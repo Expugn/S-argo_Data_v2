@@ -3435,4 +3435,18 @@
         <Character prefix="Creator of the New World" char="Thokk" rarity="5"/>
         <Character prefix="Time Traveler" char="Makoto" rarity="5"/>
     </Banner>
+
+    <Banner id="220">
+        <name>Relive the Memory 2nd</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Strength to Accept the Past" char="Kirito" rarity="6"/>
+        <Character prefix="Strength to Change Oneself" char="Sinon" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Kagemitsu G4" rarity="4"/>
+        <Weapon name="Enhance Incarnate Hecate II" rarity="4"/>
+    </Banner>
 </banners>
