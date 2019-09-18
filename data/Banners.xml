@@ -3449,4 +3449,40 @@
         <Weapon name="Enhance Incarnate Kagemitsu G4" rarity="4"/>
         <Weapon name="Enhance Incarnate Hecate II" rarity="4"/>
     </Banner>
+
+    <Banner id="221">
+        <name>Relive the Memory 3rd</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="To the World's Core" char="Kirito" rarity="6"/>
+        <Character prefix="Together Forevermore" char="Leafa" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Black Plate x2" rarity="4"/>
+        <Weapon name="Enhance Incarnate Tempest Sabre" rarity="4"/>
+    </Banner>
+
+    <Banner id="222">
+        <name>SS3 HP Recovery Selection Scout</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!-->
+        SCOUT IS NOT OPERATIONAL AS IN GAME.
+        THE STEPS THAT THIS BANNER DOES IS:
+        STEP 1: 100 MDS, 1 6STAR GUARANTEE
+        STEP 3: 200 MDS, +1.5X 6STAR RATE
+        STEP 5: GUARANTEED 6STAR
+        STEP 6: 6STAR RATE +2.0X
+        <-->
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Gilded Hero" char="Kirito" rarity="6"/>
+        <Character prefix="Joyful Wedding" char="Asuna" rarity="6"/>
+        <Character prefix="Warmth of Your Hand" char="Yuna" rarity="6"/>
+        <Character prefix="Devoted Apprentice Swordsman" char="Tiese" rarity="6"/>
+        <Character prefix="Comdr. of the Integrity Knights" char="Bercouli" rarity="6"/>
+    </Banner>
 </banners>
