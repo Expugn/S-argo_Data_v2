@@ -3485,4 +3485,18 @@
         <Character prefix="Devoted Apprentice Swordsman" char="Tiese" rarity="6"/>
         <Character prefix="Comdr. of the Integrity Knights" char="Bercouli" rarity="6"/>
     </Banner>
+
+    <Banner id="223">
+        <name>Relive the Memory 4th</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Treading A New Path" char="Silica" rarity="6"/>
+        <Character prefix="Rescuing A Friend" char="Lisbeth" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Giardino" rarity="4"/>
+        <Weapon name="Enhance Incarnate Gridarvol" rarity="4"/>
+    </Banner>
 </banners>
