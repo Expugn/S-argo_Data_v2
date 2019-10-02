@@ -3499,4 +3499,65 @@
         <Weapon name="Enhance Incarnate Giardino" rarity="4"/>
         <Weapon name="Enhance Incarnate Gridarvol" rarity="4"/>
     </Banner>
+
+    <Banner id="224">
+        <name>Asuna Birthday Scout 9.30.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Freezing Magic Bow" char="Asuna" rarity="6"/>
+        <Character prefix="Tie the Knot" char="Asuna" rarity="6"/>
+        <Character prefix="Revived Crest Light" char="Asuna" rarity="6"/>
+        <Character prefix="Lovely Eternal Summer Warrior" char="Asuna" rarity="6"/>
+        <Character prefix="The Sword of Hope" char="Asuna" rarity="6"/>
+        <Character prefix="Faith in Heart" char="Asuna" rarity="6"/>
+        <Character prefix="Leading Swordsman" char="Asuna" rarity="6"/>
+        <Character prefix="Captured Princess" char="Asuna" rarity="6"/>
+        <Character prefix="The Will - Changing the Fate" char="Asuna" rarity="5"/>
+        <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
+        <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
+        <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
+        <Character prefix="The Queen of Hearts" char="Asuna" rarity="5"/>
+        <Character prefix="Votive Prayers" char="Asuna" rarity="5"/>
+        <Character prefix="Foxy Shrine Maiden" char="Asuna" rarity="5"/>
+        <Character prefix="Affectionate Chocolatier" char="Asuna" rarity="5"/>
+        <Character prefix="Robust Faith" char="Asuna" rarity="5"/>
+        <Character prefix="Foxy Beauty" char="Asuna" rarity="5"/>
+        <Character prefix="Youthful Days" char="Asuna" rarity="5"/>
+        <Character prefix="Sweet Voice" char="Asuna" rarity="5"/>
+        <Character prefix="Flash Shooter" char="Asuna" rarity="5"/>
+        <Character prefix="Nimble Slash" char="Asuna" rarity="5"/>
+        <Character prefix="I'm not a kid" char="Asuna" rarity="5"/>
+        <Character prefix="Unrestrained Emotion" char="Asuna" rarity="5"/>
+        <Character prefix="Flash with Wind" char="Asuna" rarity="5"/>
+        <Character prefix="Ocean Resort" char="Asuna" rarity="5"/>
+        <Character prefix="Blessing of Light" char="Asuna" rarity="5"/>
+        <Character prefix="Goddess of Fertility" char="Asuna" rarity="5"/>
+    </Banner>
+
+    <Banner id="225">
+        <name>Cathedral of Nostalgia</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="A Duty to Honor" char="Kirito" rarity="6"/>
+        <Character prefix="Blooming Blue Rose Glacier" char="Eugeo" rarity="6"/>
+        <Character prefix="Grand Blossoming" char="Alice" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Starlit Cloud Sword x Lucent Red Rose Sword" rarity="4"/>
+        <Weapon name="Glacial Blue Rose Sword" rarity="4"/>
+        <Weapon name="Crushing Fragrant Olive Sword" rarity="4"/>
+    </Banner>
+
+    <Banner id="226">
+        <name>Lantern Gold Medal Scout</name>
+        <type>9</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Sweet Allure" char="Suguha" rarity="5"/>
+    </Banner>
 </banners>
