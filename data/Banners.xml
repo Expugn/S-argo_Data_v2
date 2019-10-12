@@ -3560,4 +3560,48 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Sweet Allure" char="Suguha" rarity="5"/>
     </Banner>
+
+    <Banner id="227">
+        <name>Silica Birthday Scout 10.04.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Courage to Surmount" char="Silica" rarity="6"/>
+        <Character prefix="Twinkle Hearts" char="Silica" rarity="6"/>
+        <Character prefix="Tamer of the Dragon Den" char="Silica" rarity="6"/>
+        <Character prefix="Find the Prince" char="Silica" rarity="6"/>
+        <Character prefix="Frontline Methods" char="Silica" rarity="6"/>
+        <Character prefix="Ingenuous Guardian" char="Silica" rarity="5"/>
+        <Character prefix="Autumn Leaf Bath Beauty" char="Silica" rarity="5"/>
+        <Character prefix="Lovely Chocolatier" char="Silica" rarity="5"/>
+        <Character prefix="Dragon Tamer in the Wild" char="Silica" rarity="5"/>
+        <Character prefix="Auspicious Blue Sky" char="Silica" rarity="5"/>
+        <Character prefix="Angel Tone" char="Silica" rarity="5"/>
+        <Character prefix="Tropical Fruit" char="Silica" rarity="5"/>
+    </Banner>
+
+    <Banner id="228">
+        <name>Kirito Birthday Scout 10.07.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="AR Sword master" char="Kirito" rarity="6"/>
+        <Character prefix="The Path You Choose" char="Kirito" rarity="6"/>
+        <Character prefix="Black Suited Gunner" char="Kirito" rarity="6"/>
+        <Character prefix="Gilded Hero" char="Kirito" rarity="6"/>
+        <Character prefix="My Hero" char="Kirito" rarity="6"/>
+        <Character prefix="The Will - Transcending the System" char="Kirito" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Kirito" rarity="5"/>
+        <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
+        <Character prefix="The King of Poker" char="Kirito" rarity="5"/>
+        <Character prefix="Stick to your beliefs" char="Kirito" rarity="5"/>
+        <Character prefix="Knights of the Blood" char="Kirito" rarity="5"/>
+        <Character prefix="Strong Faith" char="Kirito" rarity="5"/>
+        <Character prefix="Fortune comes in at the merry gate" char="Kirito" rarity="5"/>
+        <Character prefix="Black Master Swordsman" char="Kirito" rarity="5"/>
+        <Character prefix="Fellowship on the Field" char="Kirito" rarity="5"/>
+        <Character prefix="Orgulous God" char="Kirito" rarity="5"/>
+    </Banner>
 </banners>
