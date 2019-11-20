@@ -1,6 +1,10 @@
 # S-argo_Data_v2
 A data repository to be used with [S'argo](https://github.com/Expugn/S-argo "S'argo - SAO:MD Summon Simulator Discord Bot").  
 
+AS OF `November 20, 2019` THIS REPOSITORY WILL NO LONGER RECEIVE UPDATES.
+
+Thank you for following the development of S'argo.
+
 ## Installation
 To use this data repository, input the following line at the appropriate location in your `Settings.xml` file:  
 `<GitHubDataRepository>https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/</GitHubDataRepository>`

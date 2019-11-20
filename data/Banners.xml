@@ -3604,4 +3604,156 @@
         <Character prefix="Fellowship on the Field" char="Kirito" rarity="5"/>
         <Character prefix="Orgulous God" char="Kirito" rarity="5"/>
     </Banner>
+
+    <Banner id="229">
+        <name>Anime Premiere Special Scout (UNIMPLEMENTED)</name>
+        <type>-1</type>
+        <wepType>0</wepType>
+
+        <!-->
+        UNIMPLEMENTED STEP UP SCOUT TYPE
+
+        STEP 1: 50% OFF
+        STEP 2: 200MD COST ; PLATINUM6 RATE +X1.5
+        STEP 3: 1 OR MORE OF THE ABOVE 3 CHARACTERS GUARANTEED
+        STEP 4: PLATINUM6 SCOUT RATE X2 ; REPEATS
+
+        3 OF THE "FEATURED" CHARACTERS SHARE A 1.5% RATE
+        THE OTHER PLATINUM6 CHARACTERS GET THE OTHER 1.5%
+        <-->
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="My Hero" char="Kirito" rarity="6"/>                      <!--> FEATURED <-->
+        <Character prefix="Conqueror of Love" char="Administrator" rarity="6"/>     <!--> FEATURED <-->
+        <Character prefix="Another Master Priest" char="Cardinal" rarity="6"/>      <!--> FEATURED <-->
+        <Character prefix="Trust in Each Other" char="Kirito" rarity="6"/>
+        <Character prefix="Orderly Knight" char="Alice" rarity="6"/>
+        <Character prefix="Unwavering Commitment" char="Eugeo" rarity="6"/>
+        <Character prefix="The Path You Choose" char="Kirito" rarity="6"/>
+        <Character prefix="The Oath Sword" char="Eugeo" rarity="6"/>
+        <Character prefix="Vice Comdr. of the Int. Knights" char="Fanatio" rarity="6"/>
+        <Character prefix="Comdr. of the Integrity Knights" char="Bercouli" rarity="6"/>
+        <Character prefix="Breaking the Seal" char="Alice" rarity="6"/>
+    </Banner>
+
+    <Banner id="230">
+        <name>Return to Rulid Village</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Wandering Integrity Knight" char="Alice" rarity="6"/>
+        <Character prefix="Apprentice Nun" char="Selka" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Heavenly Fragrant Olive Sword" rarity="4"/>
+        <Weapon name="Sunlight's Blessing" rarity="4"/>
+    </Banner>
+
+    <Banner id="231">
+        <name>The Enchanting Arabian Caravan</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Shimmering Dancer" char="Yuuki" rarity="6"/>
+        <Character prefix="Illusive Sylph" char="Leafa" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Jewelry Night Scimitar x2" rarity="4"/>
+        <Weapon name="Wind Mirage Saber" rarity="4"/>
+    </Banner>
+
+    <Banner id="232">
+        <name>Kirito and Asuna's Wedding Celebration 2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="My Life Is Yours" char="Kirito" rarity="6"/>
+        <Character prefix="I Will Protect You" char="Asuna" rarity="6"/>
+    </Banner>
+
+    <Banner id="233">
+        <name>Memoir of a Steamy Bath Time</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="A Steamy View" char="Alice" rarity="6"/>
+        <Character prefix="Flushed Skin" char="Ronie" rarity="6"/>
+        <Character prefix="Rosy Cheeks" char="Tiese" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Blazing Fragrant Olive Sword x2" rarity="4"/>
+        <Weapon name="Bejeweled Bow" rarity="4"/>
+        <Weapon name="Scalding Fierce Floral" rarity="4"/>
+    </Banner>
+
+    <Banner id="234">
+        <name>Selection Scout - Useful Floor Clearing Characters</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Captured Princess" char="Asuna" rarity="6"/>
+        <Character prefix="Susanoo" char="Yuuki" rarity="6"/>
+        <Character prefix="Vice Comdr. of the Int. Knights" char="Fanatio" rarity="6"/>
+        <Character prefix="Winning Procedure" char="Sinon" rarity="6"/>
+        <Character prefix="Frontline Methods" char="Silica" rarity="6"/>
+    </Banner>
+
+    <Banner id="235">
+        <name>Night Before the Knights' Battle</name>
+        <type>19</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Feelings Under the Helmet" char="Fanatio" rarity="6"/>
+        <Character prefix="Future-Slicing Knight" char="Bercouli" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Enhance Incarnate Heaven-Piercing Blade" rarity="4"/>
+        <Weapon name="Enhance Incarnate Time-Splitting Sword" rarity="4"/>
+    </Banner>
+
+    <!--> TECHNICALLY BANNER ID 237 BUT I WANTED TO END ON A SEVEN BANNER LOL <-->
+    <Banner id="236">
+        <name>Nibelungen Purgatory -Liberation-</name>
+        <type>20</type>
+        <wepType>3</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Divine Sword of the Guardian" char="Asuna" rarity="6"/>
+        <Character prefix="Divine Spear of Prayer" char="Leafa" rarity="6"/>
+        <Character prefix="Divine Bow of Benevolence" char="Silica" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Save the World" rarity="4"/>
+        <Weapon name="Salvation Javelin" rarity="4"/>
+        <Weapon name="Shoot the Earth" rarity="4"/>
+    </Banner>
+
+    <!--> TECHNICALLY BANNER ID 236 <-->
+    <Banner id="237">
+        <name>Seven Birthday Scout 11.18.2019</name>
+        <type>19</type>
+        <wepType>0</wepType>
+
+        <!-->
+        UNIMPLEMENTED/INCORRECT STEP UP SCOUT TYPE
+
+        THERE ARE NO OTHER PLATINUM CHARACTERS IN THIS BANNER
+        HOWEVER, SCOUT TYPE 19 ALLOWS FOR OTHER PLATINUM CHARACTERS.
+
+        PLATINUM6 SEVEN = 3%
+        PLATINUM SEVENS = 1% EACH (3% TOTAL)
+        <-->
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Photon Voice Fluttering in the Wind" char="Seven" rarity="6"/>
+        <Character prefix="Dolphin Rider" char="Seven" rarity="5"/>
+        <Character prefix="Sweet Vocals" char="Seven" rarity="5"/>
+        <Character prefix="Talented Woman's Blessing" char="Seven" rarity="5"/>
+    </Banner>
 </banners>
